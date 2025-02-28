@@ -17,9 +17,9 @@ Entry to the catalogue consists of a text entry search box with the option to ap
 <img src="../assets/01-Landing-page-1000x542.png" width="1000" />
 <figcaption><p align=center><i>Catalogue entry page</i></figcaption>
 </figure>
-<!--
-![Alt text](../assets/01-Landing-page-1000x542.png)
--->
+
+![Alt text](../assets/01-Landing-page-1000x542.png){ width="300" }
+
 
 The search is designed to start with one or more key words where logical “AND” is applied. For example, a search for “gold coin” will return only records where both these words are to be found in the metadata record. The default setting is “All fields”, i.e. the whole record is searched for matching terms. Omitting a key word defaults to the entire Catalogue, the returned results depending on the filters selected.
 
