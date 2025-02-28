@@ -19,9 +19,6 @@ Entry to the catalogue consists of a text entry search box with the option to ap
 </figure>
 
 ![Alt text](../assets/01-Landing-page-1000x542.png){ width="300" }
-/// caption
-Image caption
-///
 
 ![Alt text](../assets/01-Landing-page-1000x542.png)
 
