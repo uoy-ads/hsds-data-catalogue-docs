@@ -1,3 +1,3 @@
-# Welcome to the ARIADNE RI docs
+# Welcome to the ARIADNE User Guide
 
 This will be the index page
