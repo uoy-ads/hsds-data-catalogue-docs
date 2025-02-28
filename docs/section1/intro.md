@@ -10,6 +10,11 @@ A brief introduction to what this page covers.
 
 Provide a high-level overview of the topic. This section should give readers a quick understanding of what they'll learn.
 
+
+![Alt text](../assets/01-Landing-page-800x433.png)
+
+
+
 ## Key Points
 
 - Important point 1
