@@ -1,6 +1,5 @@
 ---
-description: A brief description of this page that will appear in meta tags and social cards
-First section of the ARIADNE Portal Guide on how to use the Catalogue - 4 basic search filters and the results page. 
+description: First section of the ARIADNE Portal Guide on how to use the Catalogue - 4 basic search filters and the Search results page. 
 ---
 
 # Using the ARIADNE Catalogue
@@ -34,6 +33,13 @@ The Getty AAT Subject option enables a multi-lingual search to be performed by
 ## The Search results page
 The search results are displayed with a wider range of filters which can be used to further refine the results.
 
-![Alt text](../assets/02-Landing-page-800x433.png)
+![Alt text](../assets/02-Search-results-800x701.png)
 
+The search results can refined using a combination of What, Where and When as well as the individual filters. The following sections explain how each of these filters can be used to narrow down the search results.
+
+
+| ----------- | --------------------------------- |
+| ![Alt text](../assets/03-Filters.png) | The search text entry box is immediately below 'Filters' in the top left hand corner of the page. |
+| | |
+|The first set of filters located in the drop-down menu are a repeat of the filters found on the Catalogue entry page. |
 
