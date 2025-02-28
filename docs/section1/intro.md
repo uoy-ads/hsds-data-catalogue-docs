@@ -13,6 +13,12 @@ For further information about the ARIADNE Research Infrastructure and the Portal
 ## Searching the Catalogue
 Entry to the catalogue consists of a text entry search box with the option to apply one of four filters.
 
+<figure>
+<img src="../assets/01-Landing-page-1000x542.png" width="300" />
+<figcaption>Image caption</figcaption>
+</figure>
+
+
 
 <img src="../assets/01-Landing-page-1000x542.png)" width="300" alt="Alt text">
 
