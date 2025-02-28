@@ -8,34 +8,29 @@ The ARIADNE Portal contains a Catalogue and several services which provide acces
 
 A separate section of the Portal provides several services and tools to assist archaeologists with their research, from planning data management, exploration and analysis to display of all types of data (including from the ARIADNE Knowledgebase, where applicable). Each of these services has its own information on their use and application, so are not covered by this Guide.
 
-For further information about the ARIADNE Research Infrastructure and the Portal, see the ? About page.
+For further information about the ARIADNE Research Infrastructure and the Portal, see the **? About page** (https://portal.ariadne-infrastructure.eu/about).
 
-## Overview
-
-Provide a high-level overview of the topic. This section should give readers a quick understanding of what they'll learn.
-
+## Searching the Catalogue
+Entry to the catalogue consists of a text entry search box with the option to apply one of four filters.
 
 ![Alt text](../assets/01-Landing-page-800x433.png)
 
+The search is designed to start with one or more key words where logical “AND” is applied. For example, a search for “gold coin” will return only records where both these words are to be found in the metadata record. The default setting is “All fields”, i.e. the whole record is searched for matching terms. Omitting a key word defaults to the entire Catalogue, the returned results depending on the filters selected.
 
+There are four filters available for a more targeted search:
 
-## Key Points
+- Time period – name of time period(s) e.g. Iron age, medieval…
+- Place – place name which can be anything from a specific location to a continent.
+- Title – only the title fields are searched for matching terms.
+- Getty AAT Subject – the subject(s) defined by the data provider are matched to the Getty Arts and Architecture Thesaurus which enables the end user to see and search for data with matching translations and also related terms.
 
-- Important point 1
-- Important point 2
-- Important point 3
+For the Time Period, Place and Title filters, only exact matches in the language used are returned. E.g. if Time Period is selected, the Swedish term for Bronze Age, “bronsålder”, will return all records with the text “bronsålder” in the Dating field.
 
-## Detailed Information
+The Getty AAT Subject option enables a multi-lingual search to be performed by returning all records that contain a native language match (in the Original subject field) to the English Getty AAT subject as well as that specified in the Getty AAT Subjects field when this is present. Furthermore, since the search is hierarchical, any broad term such as “weapons” will also include all sub-categories such as swords, axes, daggers, etc. The search will return records that contain these subjects as well as those with matching terms in other languages.
 
-More in-depth content goes here. You can organize this section with additional subheadings as needed.
+**More about the Getty ATT:** https://www.getty.edu/research/tools/vocabularies/aat/about.html
 
-### Subsection 1
+## The Search results page
+The search results are displayed with a wider range of filters which can be used to further refine the results.
 
-Content for subsection 1.
-
-### Subsection 2
-
-Content for subsection 2.
-
-## Examples
 
