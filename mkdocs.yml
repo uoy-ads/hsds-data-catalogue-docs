@@ -18,8 +18,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Section 1:
-    - Introduction: section1/intro.md
+    - Introduction: Portal_user_Guide/Section-1_What.md
     - Advanced: section1/advanced.md
   - Section 2:
-    - Overview: section2/overview.md
+    - Overview: Portal_user_Guide/Section-2_Map_Where.md
     - Details: section2/details.md
