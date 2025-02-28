@@ -1,5 +1,6 @@
 ---
 description: A brief description of this page that will appear in meta tags and social cards
+First section of the ARIADNE Portal Guide on how to use the Catalogue - 4 basic search filters and the results page. 
 ---
 
 # Using the ARIADNE Catalogue
@@ -32,5 +33,7 @@ The Getty AAT Subject option enables a multi-lingual search to be performed by
 
 ## The Search results page
 The search results are displayed with a wider range of filters which can be used to further refine the results.
+
+![Alt text](../assets/02-Landing-page-800x433.png)
 
 
