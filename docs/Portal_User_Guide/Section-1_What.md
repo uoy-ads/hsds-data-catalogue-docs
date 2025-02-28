@@ -8,19 +8,18 @@ The ARIADNE Portal contains a Catalogue and several services which provide acces
 
 A separate section of the Portal provides several services and tools to assist archaeologists with their research, from planning data management, exploration and analysis to display of all types of data (including from the ARIADNE Knowledgebase, where applicable). Each of these services has its own information on their use and application, so are not covered by this Guide.
 
-For further information about the ARIADNE Research Infrastructure and the Portal, see the **? About page** (https://portal.ariadne-infrastructure.eu/about).
+For further information about the ARIADNE Research Infrastructure and the Portal, see the [**? About page**](https://portal.ariadne-infrastructure.eu/about).
 
 ## Searching the Catalogue
 Entry to the catalogue consists of a text entry search box with the option to apply one of four filters.
 
 <figure>
-<img src="../assets/01-Landing-page-1000x542.png" width="300" />
-<figcaption>Image caption</figcaption>
+<img src="../assets/01-Landing-page-1000x542.png" width="1000" />
+<figcaption><p align=center><i>Catalogue entry page</i></figcaption>
 </figure>
-
-![Alt text](../assets/01-Landing-page-1000x542.png){ width="300" }
-
+<!--
 ![Alt text](../assets/01-Landing-page-1000x542.png)
+-->
 
 The search is designed to start with one or more key words where logical “AND” is applied. For example, a search for “gold coin” will return only records where both these words are to be found in the metadata record. The default setting is “All fields”, i.e. the whole record is searched for matching terms. Omitting a key word defaults to the entire Catalogue, the returned results depending on the filters selected.
 
@@ -35,15 +34,19 @@ For the Time Period, Place and Title filters, only exact matches in the language
 
 The Getty AAT Subject option enables a multi-lingual search to be performed by returning all records that contain a native language match (in the Original subject field) to the English Getty AAT subject as well as that specified in the Getty AAT Subjects field when this is present. Furthermore, since the search is hierarchical, any broad term such as “weapons” will also include all sub-categories such as swords, axes, daggers, etc. The search will return records that contain these subjects as well as those with matching terms in other languages.
 
-**More about the Getty ATT:** https://www.getty.edu/research/tools/vocabularies/aat/about.html
+[**More about the Getty ATT:**](https://www.getty.edu/research/tools/vocabularies/aat/about.html)
 
 ## The Search results page
 The search results are displayed with a wider range of filters which can be used to further refine the results.
 
-![Alt text](../assets/02-Search-results-800x701.png)
+<figure>
+<img src="../assets/02-Search-results-800x701.png" width="800" />
+<figcaption><p align=center><i>Search results page</i></figcaption>
+</figure>
+
 
 The search results can refined using a combination of What, Where and When as well as the individual filters. The following sections explain how each of these filters can be used to narrow down the search results.
 | What | Description |
 | ----------- | ----------- |
-| ![Alt text](../assets/03-Filters.png) | The search text entry box is immediately below 'Filters' in the top left hand corner of the page. The first set of filters located in the drop-down menu are a repeat of the filters found on the Catalogue entry page (as described above).|
+| ![Alt text](../assets/03-Filters.png) | The search text entry box is immediately below 'Filters' in the top left hand corner of the page. <br><br> The first set of filters located in the drop-down menu are a repeat of the filters found on the Catalogue entry page (as described above).|
 
