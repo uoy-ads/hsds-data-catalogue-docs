@@ -11,6 +11,8 @@ theme:
     - navigation.sections    # Groups top-level sections in sidebar
     - navigation.instant     # Faster page transitions
     - navigation.top         # Back-to-top button
+markdown_extensions:
+  - attr_list
 
 
 nav:
