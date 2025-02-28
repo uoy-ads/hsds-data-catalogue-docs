@@ -1,10 +1,10 @@
-site_name: ARIADNE RI Documentation
+ site_name: ARIADNE RI Documentation
 site_url: https://ARIADNE-Infrastructure.github.io/docs/
 site_author: ARIADNE contributors
 site_description:
 repo_name: ARIADNE-Infrastructure/docs
 repo_url: https://github.com/ARIADNE-Infrastructure/docs
-copyright: 
+copyright: ARIADNE Research Infrastructure AISBL
 theme:
   name: material
   features:
