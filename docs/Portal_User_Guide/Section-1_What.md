@@ -15,7 +15,7 @@ Entry to the catalogue consists of a text entry search box with the option to ap
 
 ![Alt text](../assets/01-Landing-page-1000x542.png){ width="900" }
 <p align=center><i>Catalogue entry page</i></p>
-<BR>
+
 The search is designed to start with one or more key words where logical “AND” is applied. For example, a search for “gold coin” will return only records where both these words are to be found in the metadata record. The default setting is “All fields”, i.e. the whole record is searched for matching terms. Omitting a key word defaults to the entire Catalogue, the returned results depending on the filters selected.
 
 There are four filters available for a more targeted search:
@@ -34,11 +34,8 @@ The Getty AAT Subject option enables a multi-lingual search to be performed by r
 ## The Search results page
 The search results are displayed with a wider range of filters which can be used to further refine the results.
 
-<figure>
-<img src="../assets/02-Search-results-800x701.png" width="1000" />
-<figcaption><p align=center><i>Search results page</i></figcaption>
-</figure>
-
+![Alt text](../assets/02-Search-results-800x701.png){ width="900" }
+<p align=center><i>Catalogue entry page</i></p>
 
 The search results can refined using a combination of What, Where and When as well as the individual filters. The following sections explain how each of these filters can be used to narrow down the search results.
 | What | Description |
