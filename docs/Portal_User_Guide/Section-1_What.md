@@ -8,7 +8,7 @@ The ARIADNE Portal contains a Catalogue and several services which provide acces
 
 A separate section of the Portal provides several services and tools to assist archaeologists with their research, from planning data management, exploration and analysis to display of all types of data (including from the ARIADNE Knowledgebase, where applicable). Each of these services has its own information on their use and application, so are not covered by this Guide.
 
-For further information about the ARIADNE Research Infrastructure and the Portal, see the [**? About page**](https://portal.ariadne-infrastructure.eu/about).
+For further information about the ARIADNE Research Infrastructure and the Portal, see the <BR> [**? About page**](https://portal.ariadne-infrastructure.eu/about).
 
 ## Searching the Catalogue
 Entry to the catalogue consists of a text entry search box with the option to apply one of four filters.
@@ -18,7 +18,7 @@ Entry to the catalogue consists of a text entry search box with the option to ap
 <figcaption><p align=center><i>Catalogue entry page</i></figcaption>
 </figure>
 
-![Alt text](../assets/01-Landing-page-1000x542.png){ width="300" }
+![Alt text](../assets/01-Landing-page-1000x542.png){ width="800" }
 
 
 The search is designed to start with one or more key words where logical “AND” is applied. For example, a search for “gold coin” will return only records where both these words are to be found in the metadata record. The default setting is “All fields”, i.e. the whole record is searched for matching terms. Omitting a key word defaults to the entire Catalogue, the returned results depending on the filters selected.
