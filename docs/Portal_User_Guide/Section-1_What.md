@@ -34,8 +34,8 @@ The Getty AAT Subject option enables a multi-lingual search to be performed by r
 ## The Search results page
 The search results are displayed with a wider range of filters which can be used to further refine the results.
 
-![Alt text](../assets/02-Search-results-page.png){ width="850" }
-<p align=center><i>Catalogue entry page</i></p>
+![Alt text](../assets/02-Search_results_page.png){ width="850" }
+<p align=center><i>Search results page</i></p>
 
 The search results can refined using a combination of What, Where and When as well as the individual filters. The following sections explain how each of these filters can be used to narrow down the search results.
 | What | Description |
