@@ -41,4 +41,4 @@ The search results can refined using a combination of What, Where and When as we
 
 | What | Description |
 | ----------- | ----------- |
-| ![Alt text](../assets/03-Filters.png){ width="200" } | The search text entry box is immediately below 'Filters' in the top left hand corner of the page. <br><br> The first set of filters located in the drop-down menu are a repeat of the filters found on the Catalogue entry page (as described above).|
+| ![Alt text](../assets/03-Filters.png){ width="300" } | The search text entry box is immediately below 'Filters' in the top left hand corner of the page. <br><br> The first set of filters located in the drop-down menu are a repeat of the filters found on the Catalogue entry page (as described above).|
