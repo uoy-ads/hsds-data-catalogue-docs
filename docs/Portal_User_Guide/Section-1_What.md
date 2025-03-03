@@ -13,7 +13,7 @@ For further information about the ARIADNE Research Infrastructure and the Portal
 ## Searching the Catalogue
 Entry to the catalogue consists of a text entry search box with the option to apply one of four filters.
 
-![Alt text](../assets/01-Landing-page-1000x542.png){ width="900" }
+![Alt text](../assets/01-Landing-page-1000x542.png){ width="850" }
 <p align=center><i>Catalogue entry page</i></p>
 
 The search is designed to start with one or more key words where logical “AND” is applied. For example, a search for “gold coin” will return only records where both these words are to be found in the metadata record. The default setting is “All fields”, i.e. the whole record is searched for matching terms. Omitting a key word defaults to the entire Catalogue, the returned results depending on the filters selected.
@@ -34,11 +34,11 @@ The Getty AAT Subject option enables a multi-lingual search to be performed by r
 ## The Search results page
 The search results are displayed with a wider range of filters which can be used to further refine the results.
 
-![Alt text](../assets/02-Search-results-800x701.png){ width="900" }
+![Alt text](../assets/02-Search-results-800x701.png){ width="800" }
 <p align=center><i>Catalogue entry page</i></p>
 
 The search results can refined using a combination of What, Where and When as well as the individual filters. The following sections explain how each of these filters can be used to narrow down the search results.
 | What | Description |
 | ----------- | ----------- |
-| ![Alt text](../assets/03-Filters.png){ width="300" } | The search text entry box is immediately below 'Filters' in the top left hand corner of the page. <br><br> The first set of filters located in the drop-down menu are a repeat of the filters found on the Catalogue entry page (as described above).|
+| ![Alt text](../assets/03-Filters.png){ width="200" } | The search text entry box is immediately below 'Filters' in the top left hand corner of the page. <br><br> The first set of filters located in the drop-down menu are a repeat of the filters found on the Catalogue entry page (as described above).|
 
