@@ -40,5 +40,6 @@ The search results are displayed with a wider range of filters which can be used
 The search results can refined using a combination of What, Where and When as well as the individual filters. The following sections explain how each of these filters can be used to narrow down the search results.
 
 | What | Description |
-| ----------- | ----------- |
-| ![Alt text](../assets/03-Filters.png) | The search text entry box is immediately below 'Filters' in the top left hand corner of the page. <br><br> The first set of filters located in the drop-down menu are a repeat of the filters found on the Catalogue entry page (as described above).|
+| ------------- | ----------- |
+| ![Alt text](../assets/03-Filters.png) | The search text entry box is immediately below 'Filters' in the top left hand corner of the page. <br><br> The first set of filters located in the drop-down menu are a repeat of the filters found on the Catalogue entry page (as described above). |
+
