@@ -18,6 +18,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - User Guide:
-    - Introduction and What: Portal_User_Guide/Section-1_What.md
+    - Introduction: Portal_User_Guide/Section-1_What.md
     - The Map tool (Where): Portal_user_Guide/Section-2_Map_Where.md
-    - Time period (When): section2/details.md
+    - Time period (When): Portal_user_Guide/Section-3_Time_period_When.md
