@@ -11,6 +11,7 @@
 <p align=center>
 <i>Map filter page with full set of filters (left) geographical tools (right)</i>
 
+
 As the map can be user inter-changeably with the other filters, these are displayed on the left side of the screen. They can be hidden by clicking on the yellow tab to the right of this column (Hide filters). 
 
 The default view is a geographic Open Street Map (OSM) showing national borders. Note that native language place names are used on this map. 
@@ -21,7 +22,7 @@ There are a number of options for use with the map filter, the icons for which a
 | ----------- | ----------- |
 | ![alt text](../assets/06-Layers-icon.png) | The Layers icon displays a sub-menu with six different options for the display of the map, four of which are from Google including a satellite and a street map version (granularity will depend on level of survey) and where English is used for all place names. |
 | ![alt text](../assets/07-Zoom-icon.png) | The Zoom (in and out) icons for panning in and out of geographic regions. This can also be achieved with a touchpad (and mouse where enabled).|
-|  ![alt text](../assets/08-Drawing-tool-icons.png) | The Drawing tools icons:<p>The Line tool will display the distance covered as each point is drawn. <p>The Polygon tool defines a multi-sided area on the map. <p>The Rectangle tool defines a rectangular area between two opposite corners. <p>The results are updated to show only the records located within the defined areas |
+| ![alt text](../assets/08-Drawing-tool-icons.png) | The Drawing tools icons:<Br><Br>The Line tool will display the distance covered as each point is drawn. <p>The Polygon tool defines a multi-sided area on the map. <Br><Br>The Rectangle tool defines a rectangular area between two opposite corners. <p>The results are updated to show only the records located within the defined areas |
 
 Once an area of interest has been defined, all the related resources can be displayed on the Results page by clicking on the ‘Display as search result’ part of the information box displayed in the top left corner of the screen
 
