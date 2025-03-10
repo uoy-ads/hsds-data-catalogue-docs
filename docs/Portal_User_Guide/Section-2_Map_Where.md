@@ -8,9 +8,7 @@
 
 ![alt text](../assets/05-Full-map-with-filters.png)
 
-<p align=center>
-<i>Map filter page with full set of filters (left) geographical tools (right)</i>
-
+<p align=center><i>Map filter page with full set of filters (left) geographical tools (right)</i>
 
 As the map can be user inter-changeably with the other filters, these are displayed on the left side of the screen. They can be hidden by clicking on the yellow tab to the right of this column (Hide filters). 
 
