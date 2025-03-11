@@ -8,11 +8,15 @@
 
 ![alt text](../assets/05-Full-map-with-filters.png)
 
+<!--
 <p align=center><i>Map filter page with full set of filters (left) geographical tools (right)</i>
+-->
 
 The map can be used inter-changeably with the other filters which are displayed on the left side of the screen. They can be hidden by clicking on the yellow tab to the right of this column (Hide filters). 
 
 The default view is a geographic Open Street Map (OSM) showing national borders. Note that native language place names are used on this map. 
+
+## Map filter options
 
 There are a number of options for use with the map filter, the icons for which are shown in a column in the bottom right hand corner. 
 
