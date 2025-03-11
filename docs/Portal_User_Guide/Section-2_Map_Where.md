@@ -10,7 +10,7 @@
 
 <p align=center><i>Map filter page with full set of filters (left) geographical tools (right)</i>
 
-As the map can be user inter-changeably with the other filters, these are displayed on the left side of the screen. They can be hidden by clicking on the yellow tab to the right of this column (Hide filters). 
+The map can be used inter-changeably with the other filters which are displayed on the left side of the screen. They can be hidden by clicking on the yellow tab to the right of this column (Hide filters). 
 
 The default view is a geographic Open Street Map (OSM) showing national borders. Note that native language place names are used on this map. 
 
