@@ -7,10 +7,7 @@
 ## Advanced search
 
 ![alt text](../assets/05-Full-map-with-filters.png)
-
-<!--
-<p align=center><i>Map filter page with full set of filters (left) geographical tools (right)</i>
--->
+<p align=center><i>Map filter page with full set of filters (left) geographical tools (right)</i></p>
 
 The map can be used inter-changeably with the other filters which are displayed on the left side of the screen. They can be hidden by clicking on the yellow tab to the right of this column (Hide filters). 
 
@@ -29,16 +26,13 @@ There are a number of options for use with the map filter, the icons for which a
 Once an area of interest has been defined, all the related resources can be displayed on the Results page by clicking on the ‘Display as search result’ part of the information box displayed in the top left corner of the screen
 
 ![alt text](../assets/09-Map-in-Google-satellite-mode-showing-resources.png)
-
-<p align=center>
-<i>Map shown in Google Satellite mode showing both individual and clusters of resources</i>
+<p align=center><i>Map shown in Google Satellite mode showing both individual and clusters of resources</i></p>
 
 ## Representation of resources on the map
 
-![alt text](../assets/10-Map-pins.png)
+![alt text](../assets/10-Map-pins.png) ![alt text](../assets/10a-Map-clusters.png) 
 
-<p align=center>
-<i>Pin icons used to represent resources on the Map</i>
+<p align=center><i>Pin icons used to represent resources on the Map</i></p>
   
 Different modes are used to represent how resources are shown on the map. 
 - A Geo point shows a single resource with exact co-ordinates. If there are more than one Geo point on the Map, then the one for the current resource is denoted by an inner red ring. 
