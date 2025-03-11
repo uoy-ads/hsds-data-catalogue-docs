@@ -18,6 +18,8 @@ In both methods, (graph and direct year entry), all records that specify a time 
 
 ![image](../assets/16-Resource-time-period-diagram.png)
 
+<p align = center><i>How the time period filter works with the start and end dates specified for each resource</i>
+
 ## Filter by Time Periods
 
 The third option enables filtering of the results by named time periods as defined in PeriodO. There are two stages for this filter: Temporal region and Cultural period. The Cultural period can be used standalone or in conjunction with the Temporal region. These work as follows.
