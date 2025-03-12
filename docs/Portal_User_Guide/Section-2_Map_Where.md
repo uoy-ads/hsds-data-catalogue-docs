@@ -29,10 +29,10 @@ Once an area of interest has been defined, all the related resources can be disp
 <p align=center><i>Map shown in Google Satellite mode showing both individual and clusters of resources</i></p>
 
 ## Representation of resources on the map
+### Pin icons
 
-![alt text](../assets/10-Map-pins.png) ![alt text](../assets/10a-Map-clusters.png) 
-
-<p align=center><i>Pin icons used to represent resources on the Map</i></p>
+![alt text](../assets/10-Map-pins.png)
+<p><i>Pin icons used to represent individual resources on the Map</i></p>
   
 Different modes are used to represent how resources are shown on the map. 
 - A Geo point shows a single resource with exact co-ordinates. If there are more than one Geo point on the Map, then the one for the current resource is denoted by an inner red ring. 
@@ -43,8 +43,15 @@ Different modes are used to represent how resources are shown on the map.
 | ----------- | ----------- |
 | ![alt text](../assets/11-Red-pins-on-map.png) | In this example, the red outline defines the area in which a gold finger ring was found and contains two other resources with nearby, imprecise locations. Other resources, both with exact and imprecise locations can also be seen within the larger area. |
 
-![alt text](../assets/12-Multiple-pins.png)
+### Cluster icons
 
-Mouseover can be used on each individual Geo point and Geo shape to display the title of the associated Resource. In this example, the circular pattern of Geo shapes refers to a cluster of resources which have all been allocated the same approximate location (i.e. the centroid point) and which can be clicked on to go to the related resource record. 
+![alt text](../assets/10a-Map-clusters.png)
+<p><i>Cluster icons used to represent groups of resources on the Map</i></p>
 
-Note that the Map functions in the same way in the Browse options as for the Results page, i.e. the same icons are used. There are some minor differences for the Map on the individual Resource page which are mainly to do with the display of an imprecise or approximate location for a resource. 
+Clusters are used to denote locations where multiple resources can be found. The different colours indicate the total number of resources, blue = 1-10, yellow = 11-99 and red 100+ resources.
+
+![alt text](../assets/12-Multiple-pins.png) 
+
+Mouseover can be used on each individual Geo point and Geo shape to display the title of the associated Resource. In this example, the circular pattern of Geo shapes refers to a cluster of resources which have all been allocated the same approximate location (i.e. the centroid point). This pattern is displayed when the cluster icon is clicked - each pin icon can be clicked on to go to the related resource record. 
+
+Note that the Map functions in the same way in the Browse options as for the Results page, i.e. the same icons are used. There are some minor differences for the Map on the individual Resource page which are mainly to do with the display of an imprecise or approximate location for a resource (i.e. an area shown by a red boundary). 
