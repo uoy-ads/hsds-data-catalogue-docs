@@ -18,7 +18,7 @@ In both methods, (graph and direct year entry), all records that specify a time 
 
 ![image](../assets/16-Resource-time-period-diagram.png)
 
-<p align = center><i>How the time period filter works with the start and end dates specified for each resource</i>
+<p align = center><i>How the time period filter works with the start and end dates specified for each resource</i></p>
 
 ## Filter by Time Periods
 
