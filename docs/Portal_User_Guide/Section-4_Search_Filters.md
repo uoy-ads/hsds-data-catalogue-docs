@@ -22,7 +22,7 @@ The use of this filter is highly recommended to obtain accurate, meaningful resu
 
 <p><i>The Getty Arts & Architecture Thesaurus Subjects filter</i></p>
 
-The Getty AAT is hierarchical in structure and when a (single) higher level term is specified in this filter, the search results will also include all the sub-categories. So, the general term “weapons” will also include resources with terms such as “knives”, “spears” and “daggers” as these are sub0-categories of “weapons”.
+The Getty AAT is hierarchical in structure and when a (single) higher level term is specified in this filter, the search results will also include all the sub-categories. So, the general term “weapons” will also include resources with terms such as “knives”, “spears” and “daggers” as these are sub-categories of “weapons”.
 
 When multiple terms are used as a filter, logical ‘AND’ is applied so only resources matching all the terms will be returned in the search results. Hierarchical sub-categories are not used with multiple terms, only the term specified. Hence, if a search was made for “Weapons”  and “Warships”, there are no results but if “Cannons (artillery)” is used instead of "Weapons", then there are results as both the exact terms have been used for the matching resources. 
 
@@ -44,8 +44,18 @@ Note that the “i” icon next to each name provides a short summary about the 
 
 | Contributor | Description |
 | ----------- | ----------- |
-| ![image](../assets/24-Contributor.png) | The Contributor is usually (but not always) the original owner of the data but not the Publisher who will have created and mapped the metadata in the Catalogue on behalf of the Contributor.
+| ![image](../assets/25-Contributor.png) | The Contributor is usually (but not always) the original owner of the data.  The Publisher creates and maps the metadata in the Catalogue on behalf of the Contributor.
 
+### Original Subject
 
+| Original Subject| Description |
+| ----------- | ----------- |
+| ![image](../assets/26-Original-subject.png)| The original subject is the term from the ontology used by the Contributor and/or Publisher and which is then mapped to the Getty AAT.<Br><Br>The Original subject will, in most cases, be in the native language of the provider. The option to filter using alternative, localised terms facilitates both multi-lingual searches (i.e. in languages other than English) and terminology specific to a Publisher (country). |
 
+### Dating
 
+The dating filter can be viewed as a ‘catch all’ filter which works solely on the information in the ‘Dating’ field of the metadata. This is a broad category which includes named periods as well as date numerals, general terms such as ‘16th century’ and localised terms specific to regions. Rather than lose this information and make resources less findable, the Dating filter is intended to cover all the resources, some of which may not have both start and end dates or PeriodO definitions. 
+
+| Dating | Description |
+| ----------- | ----------- |
+| ![image](../assets/27-Dating.png) | In the example here, all matches to the first four characters “medi” entered in the text box are listed. As can be seen, there are several matches to the (intended) term of “medieval” and also a few others where different spellings or languages have been used in the original metadata. One term, Holoceno medio (Mid-Holocene) is an unintended match! |
