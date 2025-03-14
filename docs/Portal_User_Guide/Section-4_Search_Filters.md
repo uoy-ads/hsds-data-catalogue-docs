@@ -36,7 +36,7 @@ When a set of search results is displayed, the Getty AAT filter will only show t
 
 Note that the “i” icon next to each name provides a short summary about the Publisher in a new page which also shows the geographic distribution of their records on the map and the first 20 of these below a link to the Publisher’s website. The second link will display the results in the standard ‘Results’ page.
 
-![image](../assets/24-Publisher-information.png) { width="800" }
+![image](../assets/24-Publisher-information.png){ width="800" }
 
 <p align=center><i>The Publisher information for Nara, Japan</i></p>
 
