@@ -5,3 +5,7 @@ In addition to the What, Where and When tools, there are a number of filters tha
 ### Resource Type
 
 The Resource type is an ARIADNE concept designed to categorise the resources into general areas of interest to archaeologists and the names are mostly self-explanatory. 
+
+| Resource Type | Description |
+| ----------- | ----------- |
+|  | Title |
