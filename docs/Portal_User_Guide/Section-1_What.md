@@ -37,7 +37,7 @@ The search results are displayed with a wider range of filters which can be used
 ![Alt text](../assets/02-Search_results_page.png){ width="850" }
 <p align=center><i>Search results page</i></p>
 
-The search results can refined using a combination of **What, Where** and **When** as well as the individual filters. The following sections explain how each of these filters can be used to narrow down the search results.
+The search results can refined using a combination of **What, Where** and **When** as well as the individual filters. The following sections explain how each of these can be used to narrow down the search results.
 
 | What | Description |
 | ------------- | ----------- |
