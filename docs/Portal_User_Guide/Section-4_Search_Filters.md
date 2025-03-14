@@ -14,7 +14,9 @@ More than one Resource type can be selected but note that the default operator o
 
 ### Getty AAT Subjects
 
-The Getty Arts and Architecture Thesaurus (AAT) has been used to classify each resource, mapping the original subject(s) to those found in this extensive ontology. Over one thousand terms have been used and each resource usually has more than one term assigned to it.
+The Getty Arts and Architecture Thesaurus (AAT) has been used to classify each resource, mapping the original subject(s) to those found in this extensive ontology. Over one thousand terms have been used and each resource usually has more than one term assigned to it. 
+
+The use of this filter is highly recommended to obtain accurate, meaningful results. 
 
 ![image](../assets/22-Getty-AAT-subjects.png)
 
@@ -25,5 +27,25 @@ The Getty AAT is hierarchical in structure and when a (single) higher level term
 When multiple terms are used as a filter, logical ‘AND’ is applied so only resources matching all the terms will be returned in the search results. Hierarchical sub-categories are not used with multiple terms, only the term specified. Hence, if a search was made for “Weapons”  and “Warships”, there are no results but if “Cannons (artillery)” is used instead of "Weapons", then there are results as both the exact terms have been used for the matching resources. 
 
 When a set of search results is displayed, the Getty AAT filter will only show the first 20 terms found within the current set of resources, starting with the most numerous matches ordered by size. More terms can be displayed by clicking on the “Get 20 more results..” box at the end of the displayed list which extends the list with a scroll bar. This can be repeated until all the matching terms may be viewed. 
+
+### Publisher
+
+| Publisher | Description |
+| ----------- | ----------- |
+| ![image](../assets/23-Publisher.png) | The Publisher is the organisation which has supplied the metadata to the Catalogue and is responsible for the maintenance and updating of this metadata. <Br><Br>The Publisher may also own the original data or be responsible for its maintenance as in the case of regional and national repositories. |
+
+Note that the “i” icon next to each name provides a short summary about the Publisher in a new page which also shows the geographic distribution of their records on the map and the first 20 of these below a link to the Publisher’s website. The second link will display the results in the standard ‘Results’ page.
+
+![image](../assets/24-Publisher-information.png) { width="800" }
+
+<p align=center><i>The Publisher information for Nara, Japan</i></p>
+
+### Contributor
+
+| Contributor | Description |
+| ----------- | ----------- |
+| ![image](../assets/24-Contributor.png) | The Contributor is usually (but not always) the original owner of the data but not the Publisher who will have created and mapped the metadata in the Catalogue on behalf of the Contributor.
+
+
 
 
