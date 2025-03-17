@@ -11,7 +11,7 @@ A separate section of the Portal provides several services and tools to assist a
 For further information about the ARIADNE Research Infrastructure and the Portal, see the <BR> [**? About page**](https://portal.ariadne-infrastructure.eu/about).
 
 ## Searching the Catalogue
-Entry to the catalogue consists of a text entry search box with the option to apply one of four filters.
+Entry to the catalogue (i.e. the landing page) consists of a text entry search box with the option to apply one of four filters. 
 
 ![Alt text](../assets/01-Landing-page-1000x542.png){ width="850" }
 <p align=center><i>Catalogue entry page</i></p>
@@ -32,7 +32,7 @@ The **Getty AAT Subject** option enables a multi-lingual search to be performed 
 [**More about the Getty ATT**](https://www.getty.edu/research/tools/vocabularies/aat/about.html)
 
 ## The Search results page
-The search results are displayed with a wider range of filters which can be used to further refine the results.
+The search results are displayed with a wider range of filters which can be used to further refine the results. New searches can also be started from this page. 
 
 Each of the records shown in the search results has a **Resource Type** icon next to its title.
 If a resource such as a Collection or a Fieldwork archive, for example, contains more than one Resource type, then the icon will be displayed for first Resource type listed in the metadata (regardless of the actual one selected if the Resource Type filter is used). This is evident for the Resource type ‘Scientific analysis’ as these datasets may be part of a larger collection or Fieldwork archive.
