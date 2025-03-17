@@ -47,7 +47,9 @@ Resources that are to be found in a **CoreTrustSeal certified repository** will 
 
 The search results can refined using a combination of **What, Where** and **When** as well as the individual filters. The following sections explain how each of these can be used to narrow down the search results.
 
-| What | Description |
-| ------------- | ----------- |
-| ![Alt text](../assets/03-Filters.png) | The search text entry box is immediately below 'Filters' in the top left hand corner of the page. <br><br> The first set of filters located in the drop-down menu are a repeat of the filters found on the Catalogue entry page (as described above). |
+## Options for displaying the results
+At the top on the right hand side of the Results page are two options for controlling the display of the results, Order and Per page.![image](https://github.com/user-attachments/assets/47d72fb7-8a64-4bd3-aa2d-4868f989e3a6)
 
+| Per page | Description |
+| ------------- | ----------- |
+| ![Alt text](../assets/30-Per_page.png) | The default number of resources shown on the Results page is 20. The Order option enables this to be changed from between 5 to 50 per page. |
