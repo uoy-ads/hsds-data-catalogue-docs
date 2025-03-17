@@ -56,7 +56,7 @@ At the top on the right hand side of the Results page are two options for contro
 | ------------- | ----------- |
 | ![Alt text](../assets/31-Order_options.png) | **Relevance** - calculated from several fields, Title being the most important, then Description and Subject.<Br><Br>**Issued date** - date of publication of the resource. This is also the default setting.<Br><Br>**Dating** - most recent or least recent date of the one or more dates found in each record.<Br><Br>**Publisher** - data provider (of the resource metadata).<Br><Br>**Resource type** - broad resource type (as defined in the Filters).|
 
-### Further information for ‘Relevance’
+### How ‘Relevance’ is calculated
 
 **Relevance** is basically a score allocated to resources which match the current search criteria based on the metadata fields. This score determines the order in which the resources are listed (i.e. from highest score to lowest or vice versa). The algorithm used gives the highest score to matches to the Title, followed by the Description and then the Subject fields (i.e. nativeSubject and derivedSubject) after that with other fields such as location and time etc. also adding to the score (as and where relevant). 
 
