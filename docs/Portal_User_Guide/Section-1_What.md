@@ -34,6 +34,9 @@ The **Getty AAT Subject** option enables a multi-lingual search to be performed 
 ## The Search results page
 The search results are displayed with a wider range of filters which can be used to further refine the results. New searches can also be started from this page. 
 
+![Alt text](../assets/02-Search_results_page.png){ width="850" }
+<p align=center><i>Search results page</i></p>
+
 Each of the records shown in the search results has a **Resource Type** icon next to its title.
 If a resource such as a Collection or a Fieldwork archive, for example, contains more than one Resource type, then the icon will be displayed for first Resource type listed in the metadata (regardless of the actual one selected if the Resource Type filter is used). This is evident for the Resource type ‘Scientific analysis’ as these datasets may be part of a larger collection or Fieldwork archive.
 
@@ -42,14 +45,20 @@ Resources that are to be found in a **CoreTrustSeal certified repository** will 
 ![Alt text](../assets/28-Resource_icons.png)
 <p align=center><i>Record of Resource type Site/Monument with the CoreTrustSeal icon</i></p>
 
-![Alt text](../assets/02-Search_results_page.png){ width="850" }
-<p align=center><i>Search results page</i></p>
-
-The search results can refined using a combination of **What, Where** and **When** as well as the individual filters. The following sections explain how each of these can be used to narrow down the search results.
-
 ## Options for displaying the results
-At the top on the right hand side of the Results page are two options for controlling the display of the results, Order and Per page.![image](https://github.com/user-attachments/assets/47d72fb7-8a64-4bd3-aa2d-4868f989e3a6)
+At the top on the right hand side of the Results page are two options for controlling the display of the results, **Order** and **Per page**.
 
-| Per page | Description |
+| Per page |  |
 | ------------- | ----------- |
-| ![Alt text](../assets/30-Per_page.png) | The default number of resources shown on the Results page is 20. The Order option enables this to be changed from between 5 to 50 per page. |
+| ![Alt text](../assets/30-Per_page.png) | The default number of resources shown on the Results page is 20. <br><Br>The **Per page** option enables this to be changed from between 5 to 50 per page. |
+
+| Order |  |
+| ------------- | ----------- |
+| ![Alt text](../assets/31-Order_options.png) | **Relevance** - calculated from several fields, Title being the most important, then Description and Subject.<Br><Br>**Issued date** - date of publication of the resource. This is also the default setting.<Br><Br>**Dating** - most recent or least recent date of the one or more dates found in each record.<Br><Br>**Publisher** - data provider (of the resource metadata).<Br><Br>**Resource type** - broad resource type (as defined in the Filters).|
+
+### Further information for ‘Relevance’
+
+**Relevance** is basically a score allocated to resources which match the current search criteria based on the metadata fields. This score determines the order in which the resources are listed (i.e. from highest score to lowest or vice versa). The algorithm used gives the highest score to matches to the Title, followed by the Description and then the Subject fields (i.e. nativeSubject and derivedSubject) after that with other fields such as location and time etc. also adding to the score (as and where relevant). 
+
+## Refining the search results
+The search results can refined using a combination of **What, Where** and **When** as well as the individual filters. The following sections explain how each of these can be used to narrow down the search results.
