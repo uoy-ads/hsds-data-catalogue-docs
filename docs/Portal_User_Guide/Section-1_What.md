@@ -37,10 +37,10 @@ The search results are displayed with a wider range of filters which can be used
 Each of the records shown in the search results has a **Resource Type** icon next to its title.
 If a resource such as a Collection or a Fieldwork archive, for example, contains more than one Resource type, then the icon will be displayed for first Resource type listed in the metadata (regardless of the actual one selected if the Resource Type filter is used). This is evident for the Resource type ‘Scientific analysis’ as these datasets may be part of a larger collection or Fieldwork archive.
 
-Resources that are to be found in a **CoreTrustSeal certified repository** will also have this icon displayed.
+Resources that are to be found in a **CoreTrustSeal certified repository** will also have this icon displayed below the Resource Type icon.
 
 ![Alt text](../assets/28-Resource_icons.png)
-<p align=center><i>XXXX</i></p>
+<p align=center><i>Record of Resource type Site/Monument with the CoreTrustSeal icon</i></p>
 
 ![Alt text](../assets/02-Search_results_page.png){ width="850" }
 <p align=center><i>Search results page</i></p>
