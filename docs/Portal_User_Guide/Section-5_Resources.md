@@ -52,7 +52,7 @@ In addition, the Resource type is ‘Artefact’ rather than ‘Coin’ as all D
 
 ### Resource links
 
-| Metadata | Description |
+| Option | Description |
 | ----------- | ----------- |
 | ![Alt text](../assets/40-Resource_links.png) | The Resource links are for technical applications apart from Report an issue.|
 
@@ -78,4 +78,5 @@ The Collection record for DIME is shown here:
 The remainder of the page follows the same format as the individual Resource page.
 
 ### Thematically similar
+
 
