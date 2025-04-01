@@ -48,7 +48,7 @@ In addition, the Resource type is ‘Artefact’ rather than ‘Coin’ as all D
 
 | Metadata | Description |
 | ----------- | ----------- |
-| ![Alt text](../assets/39-Resource_thumbnails.png) | Some of the resources in the Catalogue also have images which are shown at the bottom of the page.  <BR><BR>The first image is also shown as a thumbnail with the summary information on the Results page.|
+| ![Alt text](../assets/39-Resource_thumbnails.png) | Some of the resources in the Catalogue also have images which are shown at the bottom of the Resource page.  <BR><BR>The first image is also shown as a thumbnail with the summary information for that record on the Results page.|
 
 ### Resource links
 
@@ -60,9 +60,22 @@ In addition, the Resource type is ‘Artefact’ rather than ‘Coin’ as all D
 
 **Xml** – displays the resource data formatted in XML (as for JSON).
 
-**Report an issue** – this option generates a form containing the resource id (Subject) in which end users can report any issues they encounter with the Catalogue.
-
-### Contact
+**Report an issue** – this option generates a Contact form (shown below) containing the resource id (Subject) in which end users can report any issues they encounter with the Catalogue.
 
  ![Alt text](../assets/41-Resource_contact.png)|
 <p align="center"><I>The Contact form</I></P>
+
+### Resource is a part of
+
+| Metadata | Description |
+| ----------- | ----------- |
+| ![Alt text](../assets/42-Resource_is_part_of.png) | This section indicates the Collection or dataset that the resource belongs to. It provides a link to a new page with further information and access to the other resources within the Collection. |
+
+The Collection record for DIME is shown here:
+
+![Alt text](../assets/43-Collection_record.png)
+
+The remainder of the page follows the same format as the individual Resource page.
+
+### Thematically similar
+
