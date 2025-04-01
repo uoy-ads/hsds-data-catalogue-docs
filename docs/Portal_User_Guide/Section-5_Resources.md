@@ -38,11 +38,12 @@ The Title of this resource (Mønt) is shown followed by the Description (in Dani
 Note that the Google translation for the Description is: Very well preserved Gros Tournois, Phillip III-IV, 1280-1305, France. , Material: Silver, Weight: 3.77g, Length: 258mm
 
 In addition, the Resource type is ‘Artefact’ rather than ‘Coin’ as all DIME database resources are classified using this broader term. The Getty AAT subject is used to provide a more accurate description.
+
 ### Responsible person and organisations, Licence information
 
 | Metadata | Description |
 | ----------- | ----------- |
-| ![Alt text](../assets/38-Resource-licence.png) | The **Creator** is the original author of the resource information. <BR><BR>The **Contributor** is the organisation (or person) who has supplied the metadata about the resource.  <BR><BR>The **Owner** is the organisation (or person) who owns the licence.  <BR><BR>The **Responsible** is the organisation (or person) legally responsible for the maintenance of the resource data.  <BR><BR>The **Licence** is Creative Commons and indicates the permitted access and reuse of the metadata.|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](../assets/38-Resource-licence.png) | The **Creator** is the original author of the resource information. <BR><BR>The **Contributor** is the organisation (or person) who has supplied the metadata about the resource.  <BR><BR>The **Owner** is the organisation (or person) who owns the licence.  <BR><BR>The **Responsible** is the organisation (or person) legally responsible for the maintenance of the resource data.  <BR><BR>The **Licence** is Creative Commons and indicates the permitted access and reuse of the metadata.|
  
 ### Images
 
@@ -54,7 +55,7 @@ In addition, the Resource type is ‘Artefact’ rather than ‘Coin’ as all D
 
 | Option | Description |
 | ----------- | ----------- |
-| ![Alt text](../assets/40-Resource_links.png) | **View resource at provider** is the Landing page URL. The other Resource links are for technical applications apart from Report an issue.|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Alt text](../assets/40-Resource_links.png) | **View resource at provider** is the Landing page URL. The other Resource links are for technical applications apart from Report an issue.|
 
 **Json** – displays the resource data formatted in JSON. This is all the data (and combinations of data) available for that specific resource. (This data is very close to how the data is formatted and looks in the OpenSearch source).
 
@@ -73,7 +74,7 @@ In addition, the Resource type is ‘Artefact’ rather than ‘Coin’ as all D
 
 | Metadata | Description |
 | ----------- | ----------- |
-| ![Alt text](../assets/42-Resource_is_part_of.png) | This section indicates the Collection or dataset that the resource belongs to. It provides a link to a new page with further information and access to the other resources within the Collection. |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](../assets/42-Resource_is_part_of.png) | This section indicates the Collection or dataset that the resource belongs to. It provides a link to a new page with further information and access to the other resources within the Collection. |
 
 The Collection record for DIME is shown here:
 
@@ -85,7 +86,7 @@ The remainder of the page follows the same format as the individual Resource pag
 
 | Option | Description |
 | ----------- | ----------- |
-| ![Alt text](../assets/44-Resource_thematically_similar.png) |Thematically similar lists up to seven similar resources from the whole Catalogue. The default setting is ‘Subject & Time period”. In this case, records with similar (Original) subjects and in a similar time period will be searched for and the first seven listed.|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](../assets/44-Resource_thematically_similar.png) |Thematically similar lists up to seven similar resources from the whole Catalogue. The default setting is ‘Subject & Time period”. In this case, records with similar (Original) subjects and in a similar time period will be searched for and the first seven listed.|
 
 In addition to the default term of “Subject & Time period”, there are four other criteria that can be used to find similar resources:
 - Title – title of resource (matches all or some words used in the title)
