@@ -54,11 +54,15 @@ In addition, the Resource type is ‘Artefact’ rather than ‘Coin’ as all D
 
 | Option | Description |
 | ----------- | ----------- |
-| ![Alt text](../assets/40-Resource_links.png) | The Resource links are for technical applications apart from Report an issue.|
+| ![Alt text](../assets/40-Resource_links.png) | **View resource at provider** is the Landing page URL. The other Resource links are for technical applications apart from Report an issue.|
 
 **Json** – displays the resource data formatted in JSON. This is all the data (and combinations of data) available for that specific resource. (This data is very close to how the data is formatted and looks in the OpenSearch source).
 
 **Xml** – displays the resource data formatted in XML (as for JSON).
+
+**RDF** - generates a RDF file of the resource data for downloading.
+
+**Cite** - 
 
 **Report an issue** – this option generates a Contact form (shown below) containing the resource id (Subject) in which end users can report any issues they encounter with the Catalogue.
 
@@ -79,4 +83,36 @@ The remainder of the page follows the same format as the individual Resource pag
 
 ### Thematically similar
 
+| Option | Description |
+| ----------- | ----------- |
+| ![Alt text](../assets/44-Resource_thematically_similar.png) |Thematically similar lists up to seven similar resources from the whole Catalogue. The default setting is ‘Subject & Time period”. In this case, records with similar (Original) subjects and in a similar time period will be searched for and the first seven listed.|
+
+In addition to the default term of “Subject & Time period”, there are four other criteria that can be used to find similar resources:
+- Title – title of resource (matches all or some words used in the title)
+- Location – other resources found within 2km of the centroid of the original resource location.
+- Subject – resources with the same Original subject classification?
+- Time period – resources falling within the same time period (start and end dates).
+
+## The Horizontal Menu options
+
+There are four options in the horizontal menu across the top of the page:
+- Catalogue – this returns the user to the initial Results page with the default search showing all the records. As all the filters are available on this page, this page is considered to be more useful than the landing page displayed upon initial entry to the Catalogue.
+  
+- Browse – this contains three options for searching the catalogue/knowledgebase based on Where, When and What.
+<Br>**Where** – displays the map filter. This is a stand-alone version which works in exactly the same way as described previously.
+<Br>**When** – displays the time line filter. This is a stand-alone version which works in exactly the same way as described previously.
+<Br>**What** – this displays an interactive Wordle representing the distribution of the Getty AAT subject terms in the current selection by the relative size of each term to each of the others. 
+<Br><Br>Note that selecting a Browse option will automatically clear all previously set filters so, in the case of Where and When, these should be used from the Results page to refine the results.
+
+- Services - links to the Portal Services page which contains a description and link for each one.
+
+- About – a brief overview of the project.
+
+### The Browse “What” filter
+
+The “What” filter displays an interactive Wordle based upon the first twenty most common Getty AAT Subject(s) recorded for the current selection, the default on entry being the entire Catalogue. In the example shown, the term “weapons” has been used. The results show all the sub-classes of this term (since the Getty AAT Subject is hierarchical) such as axes, spears, arrowheads and knives as well as the other terms (most of which describe the context) which were recorded with the weapons. 
+
+![Alt text](../assets/45-Browse_what.png) 
+
+To explore further, click on any of the terms to display the corresponding resources on the Results page. From here, filters can be applied as described previously.
 
