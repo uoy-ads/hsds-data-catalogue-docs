@@ -39,9 +39,25 @@ Epiacum is a Roman Fort located near the town of Alston, Cumbria on the border w
 
 Starting with a search for “Epiacum”, five resources are found. These are all Historic England records which refer to fieldwork on the ramparts dated 1957,  two excavations dated 1810 and 1828, and one which links to a Historic England Research Record entitled “Whitley Castle Roman Fort” with useful references. Three of the resources are usefully entitled Whitley Castle (Epiacum?) indicating the alternative name. 
 
-Using “Whitley Castle” as a search term finds 22 results, including those mentioned previously. These include several additional Historic England records, one referencing the 2007-08 survey,  another a report on a geomagnetic survey carried out by Durham University in 2009 and an archaeological investigation by English Heritage as well as a palaeoenvironmental investigation from 2010. 
+Using “Whitley Castle” as a search term finds 22 results, including those mentioned previously. These include several additional Historic England records, one referencing the 2007-08 survey,  another a report on a geomagnetic survey carried out by Durham University in 2009 and an archaeological investigation by English Heritage as well as a paleoenvironmental investigation from 2010. 
 
  Each of the results are displayed on the map with quite a few nearby resources shown:
 
-![alt text](../assets/46-Epiacum_map_with_resources.png)
+![Whitley Castle resources shown on map](../assets/46-Epiacum_map_with_resources.png)
+<p align="center"><I>Search results for "Whitley Castle"</I></p>
+
+Using mouse-over to reveal the titles of these neighbouring resources reveals some new ones:
+
+![Whitley Castle nearby resource](../assets/47-Epiacum_resource_illustration.png)
+<p align="center"><I>Highlighting a nearby resource using mouseover</I></p>
+
+This Archaeological Evaluation (2018) resource could have been missed as the name in the title is misspelt and the location referred to is the name of the farm on whose land the Roman fort is located.
+
+Included in the 22 results for “Whitley Castle” is the resource "Altar, Knaresdale with Kirkhaugh” which refers to two stone altars found around 100m north east of the fort. 
+
+![Whitley Castle nearby resource - Roman altars](../assets/48-Epiacum_Roman_altars.png)
+<p align="center"><I>More nearby resources - Roman altars</I></p>
+
+Next to this resource is a second one entitled “Two roman altars were found…” which was not included in the results as the Parish name of “Knaresdale with Kirkhaugh” was used as the location and not “Whitley Castle” nor “Epiacum”. This record also mentions a (lost) third altar and that some coins were also found which is additional information.
+
 
