@@ -23,8 +23,9 @@ Two approaches have been used to denote time periods – absolute start and end 
 - PeriodO terms are used to describe archaeological time periods; it is well known that a defined period (e.g. “Bronze age”) in one country may cover a different time span in another country. However, the filter has been designed so that one or more defined periods may be used with the further option of restricting the named period(s) to a specific region(s). 
 
 ## Some examples of using the Catalogue to answer research questions
+### Short video tutorial
 
-This short video shows how to find all the records relating to submarines sunk around the British Isles: 
+This short video shows how to find all the records relating to submarines sunk around the British Isles during the Second World War: 
 [Short video tutorial](https://vimeo.com/1049348294)
 
 ### How to find all resources relating to a specific site or monument
@@ -42,5 +43,5 @@ Using “Whitley Castle” as a search term finds 22 results, including those me
 
  Each of the results are displayed on the map with quite a few nearby resources shown:
 
-![alt text]([image.jpg](https://github.com/46-Epiacum_map_with_resources.png))
+![alt text](../assets/46-Epiacum_map_with_resources.png)
 
