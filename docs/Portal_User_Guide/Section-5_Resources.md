@@ -111,11 +111,11 @@ There are four options in the horizontal menu across the top of the page:
 
 ### The Browse “Where” tool
 
-This is the Map tool covered in section 3:
+This is the Map tool covered in section 2: [The Map tool (Where)](https://ariadne-infrastructure.github.io/docs/Portal_User_Guide/Section-2_Map_Where/)
 
 ### The Browse “When” tool
 
-This is the Time Period tool covered in section 4: 
+This is the Time Period tool covered in section 3: [The Time period tool (When)](https://ariadne-infrastructure.github.io/docs/Portal_User_Guide/Section-3_Time_period_When/)
 
 ### The Browse “What” tool
 
