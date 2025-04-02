@@ -55,9 +55,10 @@ This Archaeological Evaluation (2018) resource could have been missed as the nam
 
 Included in the 22 results for “Whitley Castle” is the resource "Altar, Knaresdale with Kirkhaugh” which refers to two stone altars found around 100m north east of the fort. 
 
-![Whitley Castle nearby resource - Roman altars](../assets/48-Epiacum_Roman_altars.png)
-<p align="center"><I>More nearby resources - Roman altars</I></p>
+|  |  |
+| ----------- | ----------- |
+|![Whitley Castle nearby resource - Roman altars](../assets/48-Epiacum_Roman_altars.png) | Next to this resource is a second one entitled “Two roman altars were found…” which was not included in the results as the Parish name of “Knaresdale with Kirkhaugh” was used as the location and not “Whitley Castle” nor “Epiacum”. This record also mentions a (lost) third altar and that some coins were also found which is additional information.|
 
-Next to this resource is a second one entitled “Two roman altars were found…” which was not included in the results as the Parish name of “Knaresdale with Kirkhaugh” was used as the location and not “Whitley Castle” nor “Epiacum”. This record also mentions a (lost) third altar and that some coins were also found which is additional information.
+
 
 
