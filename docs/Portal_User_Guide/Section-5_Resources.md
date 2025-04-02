@@ -109,9 +109,17 @@ There are four options in the horizontal menu across the top of the page:
 
 - About – a brief overview of the project.
 
-### The Browse “What” filter
+### The Browse “Where” tool
 
-The “What” filter displays an interactive Wordle based upon the first twenty most common Getty AAT Subject(s) recorded for the current selection, the default on entry being the entire Catalogue. In the example shown, the term “weapons” has been used. The results show all the sub-classes of this term (since the Getty AAT Subject is hierarchical) such as axes, spears, arrowheads and knives as well as the other terms (most of which describe the context) which were recorded with the weapons. 
+This is the Map tool covered in section 3:
+
+### The Browse “When” tool
+
+This is the Time Period tool covered in section 4: 
+
+### The Browse “What” tool
+
+The “What” filter tool an interactive Wordle based upon the first twenty most common Getty AAT Subject(s) recorded for the current selection, the default on entry being the entire Catalogue. In the example shown, the term “weapons” has been used. The results show all the sub-classes of this term (since the Getty AAT Subject is hierarchical) such as axes, spears, arrowheads and knives as well as the other terms (most of which describe the context) which were recorded with the weapons. 
 
 ![Alt text](../assets/45-Browse_what.png) 
 
