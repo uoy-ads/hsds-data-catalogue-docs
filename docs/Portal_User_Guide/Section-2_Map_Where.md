@@ -1,3 +1,8 @@
+---
+description: Section two of the ARIADNE Portal Guide on how to use the Catalogue - the map tool. 
+---
+![Header iamge](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
+
 # The Map (Where)
 
 | Where | Description |
