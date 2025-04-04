@@ -1,3 +1,8 @@
+---
+description: Section 4 of the ARIADNE Portal Guide on how to use the Catalogue - the individual filters. 
+---
+![Header iamge](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
+
 ## Search Filters
 
 In addition to the What, Where and When tools, there are a number of filters that each operate on a specific field in the metadata that can be used to refine the returned search results.
