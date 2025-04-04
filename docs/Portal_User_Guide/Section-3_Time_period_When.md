@@ -1,3 +1,8 @@
+---
+description: Section 3 of the ARIADNE Portal Guide on how to use the Catalogue - the time line and using dates and Periodo defined periods.
+---
+![Header iamge](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
+
 # Time period (When)
 
 The When tool consists of three different ways of selecting a time period of interest: a graphic where the mouse is used to select the date range, a text entry box where the start and end year can be specified and a separate filter that uses named time periods as defined in PeriodO.
