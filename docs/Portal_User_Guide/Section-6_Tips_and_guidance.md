@@ -60,5 +60,16 @@ Included in the 22 results for “Whitley Castle” is the resource "Altar, Knar
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Whitley Castle nearby resource - Roman altars](../assets/48-Epiacum_Roman_altars.png) | Next to this resource is a second one entitled “Two roman altars were found…” which was not included in the results as the Parish name of “Knaresdale with Kirkhaugh” was used as the location and not “Whitley Castle” nor “Epiacum”. This record also mentions a (lost) third altar and that some coins were also found which is additional information.|
 
 
-Navigating hierarchical datasets (THANADOS)
+### Navigating hierarchical datasets (THANADOS)
+
+THANADOS is a web portal (https://thanados.net), hosted at the Natural History Museum Vienna, for archaeologically and anthropologically investigated burials from Austria and the Czech Republic during the Early Middle Ages. It is possible to explore the THANADOS datasets from any one of four levels, i.e. the site, the grave, the burials and finally the grave goods by using the properties ‘Resource is a part of’…’ and/or ‘Resource has…’ as appropriate. Starting a search using THANADOS from the Publisher filter finds over 23,000 resources. These consist of three Resource types:
+-	Artefacts – items found in graves
+-	Burials – graves and burials (a grave may contain more than one burial)
+-	Sites/monument – cemeteries and grave sites.
+
+The following example is the resource for Teurnia St. Peter in Holz, a burial ground which has records for 32 graves and one for the stray finds. Note that the finds for each site are amalgamated into one record at this top level but exist as separate records for each artefact associated with an individual burial.
+
+![THANADOS Teurnia St. Peter in Holz map ](../assets/49-Thanados_map.png){width=800}
+<p align="center"><I>Teurnia St. Peter in Holz burial ground record</I></p>
+
 
