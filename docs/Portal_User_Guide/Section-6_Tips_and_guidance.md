@@ -67,9 +67,22 @@ THANADOS is a web portal (https://thanados.net), hosted at the Natural History M
 -	Burials – graves and burials (a grave may contain more than one burial)
 -	Sites/monument – cemeteries and grave sites.
 
+### Short video tutorial
+In this clip, Julian Richards demonstrates the hierarchical structure of the THANADOS collection resources. 
+
 The following example is the resource for Teurnia St. Peter in Holz, a burial ground which has records for 32 graves and one for the stray finds. Note that the finds for each site are amalgamated into one record at this top level but exist as separate records for each artefact associated with an individual burial.
 
 ![THANADOS Teurnia St. Peter in Holz map ](../assets/49-Thanados_map.png){width=800}
 <p align="center"><I>Teurnia St. Peter in Holz burial ground record</I></p>
 
+Each grave can be accessed by clicking on the resource title shown under the **Resource has…** on the right hand side of the page or via the resources listed on the results page if the **‘Show all records’** option at the end of the list of records is used instead. Grave 18/72 from this site contains one burial (Burial 18/72) which has four finds associated with it (18/72/1 - /4). 
 
+![THANADOS Burial 18/72 record](../assets/50-Thanados_resource_record.png)
+<p align="center"><I>Burial 18/72 record</I></p>
+
+As the resources are hierarchical, the Resource is a part of shows that the Finds belong to Grave 18/72 so the relationship between the four levels can be explored in both directions.
+
+Clicking on the Landing page link in the Resource metadata for the Find 18/72/1 goes to the THANADOS Portal and reveals that this is a bronze bracelet.
+
+![THANADOS Burial 18/72 find](../assets/51-Thandos_Portal_record.png)
+<p align="center"><I>Burial 18/72 find - bronze bracelet</I></p>
