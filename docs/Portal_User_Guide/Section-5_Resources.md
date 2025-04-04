@@ -1,3 +1,8 @@
+---
+description: Section 5 of the ARIADNE Portal Guide on how to use the Catalogue - the Resource page, metadata and display options. 
+---
+![Header iamge](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
+
 # The Resource page
 Clicking on the title of a resource from the Search results page will display the metadata record and all associated information for that resource on a new web page. At the top of the page, the resource’s location is shown on a map where zoom in and out can be done using the ‘+’and ‘-‘ icons on the right hand side. The is also the option to change the layers. Below these icons there is a further rectangular icon which is a pop-up menu with options for changing the size of the dislayed map, these being small (default), medium and full screen. 
 
