@@ -1,3 +1,8 @@
+---
+description: Section 6 of the ARIADNE Portal Guide on how to use the Catalogue - guidance and two case studies. 
+---
+![Header iamge](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
+
 # Tips and guidance for searching the Catalogue
 ## How the metadata has been mapped
 The metadata in the Catalogue has originated from many different sources with varying levels of information and data models. In the first instance, these have been mapped to the AO-CAT which caters for most archaeological domains. However, there are some specialist domains which require additional concepts and terminology to be successfully mapped (otherwise a lot of relevant information would be lost) and two approaches have been used to address this issue.
