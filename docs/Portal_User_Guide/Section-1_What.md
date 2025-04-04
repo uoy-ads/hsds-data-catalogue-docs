@@ -1,7 +1,7 @@
 ---
 description: First section of the ARIADNE Portal Guide on how to use the Catalogue - 4 basic search filters and the Search results page. 
 ---
-
+![Header iamge](../assets/ARIADNE_Portal_User_Guide_banner.png){ width="850" }
 # Using the ARIADNE Catalogue
 
 The ARIADNE Portal contains a Catalogue and several services which provide access to over 4 million archaeological resources that can be searched and filtered according to a number of criteria. The returned results from the search facilities provided with the Catalogue are listed individually as well as aggregated results on the map and on the timeline. This Guide aims at helping all end users to get the maximum benefit from using the Catalogue.
@@ -13,7 +13,7 @@ For further information about the ARIADNE Research Infrastructure and the Portal
 ## Searching the Catalogue
 Entry to the catalogue (i.e. the landing page) consists of a text entry search box with the option to apply one of four filters. 
 
-![Alt text](../assets/01-Landing-page-1000x542.png){ width="850" }
+![Landing page](../assets/01-Landing-page-1000x542.png){ width="850" }
 <p align=center><i>Catalogue entry page</i></p>
 
 The search is designed to start with one or more key words where logical “AND” is applied. For example, a search for “gold coin” will return only records where both these words are to be found in the metadata record. The default setting is “All fields”, i.e. the whole record is searched for matching terms. Omitting a key word defaults to the entire Catalogue, the returned results depending on the filters selected.
