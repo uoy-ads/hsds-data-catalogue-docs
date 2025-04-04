@@ -1,7 +1,8 @@
 ---
-description: First section of the ARIADNE Portal Guide on how to use the Catalogue - 4 basic search filters and the Search results page. 
+description: First section of the ARIADNE Portal Guide on how to use the Catalogue - 4 basic search filters and the Search results page and its display options. 
 ---
-![Header iamge](../assets/ARIADNE_Portal_User_Guide_banner.png){ width="850" }
+![Header iamge](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
+
 # Using the ARIADNE Catalogue
 
 The ARIADNE Portal contains a Catalogue and several services which provide access to over 4 million archaeological resources that can be searched and filtered according to a number of criteria. The returned results from the search facilities provided with the Catalogue are listed individually as well as aggregated results on the map and on the timeline. This Guide aims at helping all end users to get the maximum benefit from using the Catalogue.
