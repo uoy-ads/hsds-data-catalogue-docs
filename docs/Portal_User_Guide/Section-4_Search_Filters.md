@@ -1,6 +1,7 @@
 ---
 description: Section 4 of the ARIADNE Portal Guide on how to use the Catalogue - the individual filters. 
 ---
+
 ![Header image](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
 
 ## Search Filters
