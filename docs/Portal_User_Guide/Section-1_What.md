@@ -11,6 +11,12 @@ A separate section of the Portal provides several services and tools to assist a
 
 For further information about the ARIADNE Research Infrastructure and the Portal, see the <BR> [**? About page**](https://portal.ariadne-infrastructure.eu/about).
 
+**Video**<Br>
+[This 40 minute video](https://www.ariadne-research-infrastructure.eu/catalogue-demonstration-video/) by Prof. Julian Richards provides the background to the development of the Portal, the technology used and demonstrates the search options available in the Catalogue. Shorter clips from this video are used in the relevant sections of the Guide.
+
+## Using this Guide
+This Guide has been created in GitHub as part of the documentation associated with the ARIADNE RI AISBL. It is presented in six sections as shown on the left hand side. The contents (headings) within the currently displayed section are shown on the right hand side of the page. 
+
 ## Searching the Catalogue
 Entry to the catalogue (i.e. the landing page) consists of a text entry search box with the option to apply one of four filters. 
 
