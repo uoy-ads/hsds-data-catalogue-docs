@@ -1,4 +1,5 @@
-site_name: ARIADNE RI Documentation
+
+-site_name: ARIADNE RI Documentation
 site_url: https://ARIADNE-Infrastructure.github.io/docs/
 site_author: ARIADNE contributors
 site_description:
@@ -24,3 +25,4 @@ nav:
     - Search filters: Portal_User_Guide/Section-4_Search_Filters.md
     - Resource information: Portal_User_Guide/Section-5_Resources.md
     - Tips and guidance: Portal_User_Guide/Section-6_Tips_and_guidance.md
+    - Minimum RDA metadata: Portal_User_Guide/
