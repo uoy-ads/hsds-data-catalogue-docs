@@ -8,6 +8,8 @@ description: Section 3 of the ARIADNE Portal Guide on how to use the Catalogue -
 The When tool consists of three different ways of selecting a time period of interest: a graphic where the mouse is used to select the date range, a text entry box where the start and end year can be specified and a separate filter that uses named time periods as defined in PeriodO.
 
 ## The Time line
+<img align="left" width="40%" src="https://i.sstatic.net/RJj4x.png">
+The Time Period graphic (the time line) displays the resources returned in the search results by date distribution.<p><p>The search results can be refined by Clicking on ‘Advanced Search’ to display the Time period filter page (Browse when). <p>If no search term is used or the filter is accessed via the ‘Browse when’ option, then the graph shows the date distribution for the entire catalogue.
 
 | The Time line | Description |
 | ----------- | ----------- |
