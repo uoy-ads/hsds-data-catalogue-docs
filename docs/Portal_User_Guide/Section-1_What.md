@@ -1,7 +1,7 @@
 ---
 description: First section of the ARIADNE Portal Guide on how to use the Catalogue - 4 basic search filters and the Search results page and its display options. 
 ---
-![Header iamge](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
+![ARIADNE Portal Guide Header image](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
 
 # Using the ARIADNE Catalogue
 
@@ -11,16 +11,20 @@ A separate section of the Portal provides several services and tools to assist a
 
 For further information about the ARIADNE Research Infrastructure and the Portal, see the <BR> [**? About page**](https://portal.ariadne-infrastructure.eu/about).
 
-**Video**<Br>
-[This 40 minute video](https://www.ariadne-research-infrastructure.eu/catalogue-demonstration-video/) by Prof. Julian Richards provides the background to the development of the Portal, the technology used and demonstrates the search options available in the Catalogue. Shorter clips from this video are used in the relevant sections of the Guide.
+<table border="3" bgcolor="#ADD8E6">
+    <tr>
+        <td><b>Video demonstration of the Portal Catalogue</b><Br><a href="https://www.ariadne-research-infrastructure.eu/catalogue-demonstration-video/">This 40 minute video</a> by Prof. Julian Richards provides the background to the development of the Portal, the technology used and demonstrates the search options available in the Catalogue, explaining how these affect the search results. Shorter clips from this video are used in the relevant sections of the Guide.
+</td>
+    </tr>
+</table>
 
-## Using this Guide
-This Guide has been created in GitHub as part of the documentation associated with the ARIADNE RI AISBL. It is presented in six sections as shown on the left hand side. The contents (headings) within the currently displayed section are shown on the right hand side of the page. 
+## How to use this Guide
+This Guide has been created in GitHub as part of the documentation associated with the ARIADNE RI AISBL. It is presented in six sections as shown on the left hand side. The contents (headings and sub-headings) within the currently displayed section are shown as links on the right hand side of the page enabling navigation to the required topic of interest. 
 
 ## Searching the Catalogue
 Entry to the catalogue (i.e. the landing page) consists of a text entry search box with the option to apply one of four filters. 
 
-![Landing page](../assets/01-Landing-page-1000x542.png){ width="850" }
+![ARIADNE Catalogue Landing page](../assets/01-Landing-page-1000x542.png){ width="850" }
 <p align=center><i>Catalogue entry page</i></p>
 
 The search is designed to start with one or more key words where logical “AND” is applied. For example, a search for “gold coin” will return only records where both these words are to be found in the metadata record. The default setting is “All fields”, i.e. the whole record is searched for matching terms. Omitting a key word defaults to the entire Catalogue, the returned results depending on the filters selected.
@@ -36,12 +40,12 @@ For the **Time Period, Place** and **Title** filters, only exact matches in the 
 
 The **Getty AAT Subject** option enables a multi-lingual search to be performed by returning all records that contain a native language match (in the **Original subject** field) to the English **Getty AAT subject** as well as that specified in the **Getty AAT Subject** field when this is present. Furthermore, since the search is hierarchical, any broad term such as “weapons” will also include all sub-categories such as swords, axes, daggers, etc. The search will return records that contain these subjects as well as those with matching terms in other languages.
 
-[**More about the Getty ATT**](https://www.getty.edu/research/tools/vocabularies/aat/about.html)
+[**More about the Getty ATT (on the Getty website)**](https://www.getty.edu/research/tools/vocabularies/aat/about.html)
 
 ## The Search results page
 The search results are displayed with a wider range of filters which can be used to further refine the results. New searches can also be started from this page. 
 
-![Alt text](../assets/02-Search_results_page.png){ width="850" }
+![ARIADNE Catalogue search results page](../assets/02-Search_results_page.png){ width="850" }
 <p align=center><i>Search results page</i></p>
 
 Each of the records shown in the search results has a **Resource Type** icon next to its title.
@@ -49,19 +53,19 @@ If a resource such as a Collection or a Fieldwork archive, for example, contains
 
 Resources that are to be found in a **CoreTrustSeal certified repository** will also have this icon displayed below the Resource Type icon.
 
-![Alt text](../assets/28-Resource_icons.png)
-<p align=center><i>Record of Resource type Site/Monument with the CoreTrustSeal icon</i></p>
+![Set of icons which classify the resource type ](../assets/28-Resource_icons.png)
+<p align=center><i>Record of Resource type Site/Monument with the CoreTrustSeal icon (and text displayed with mouseover)</i></p>
 
 ## Options for displaying the results
 At the top on the right hand side of the Results page are two options for controlling the display of the results, **Order** and **Per page**.
 
 | Per page |  |
 | ------------- | ----------- |
-| ![Alt text](../assets/30-Per_page.png) | The default number of resources shown on the Results page is 20. <br><Br>The **Per page** option enables this to be changed from between 5 to 50 per page. |
+| ![Drop down menu of values for how many results are displayed on the page](../assets/30-Per_page.png) | The default number of resources shown on the Results page is 20. <br><Br>The **Per page** option enables this to be changed from between 5 to 50 per page. |
 
 | Order |  |
 | ------------- | ----------- |
-| ![Alt text](../assets/31-Order_options.png) | **Relevance** - calculated from several fields, Title being the most important, then Description and Subject.<Br><Br>**Issued date** - date of publication of the resource. This is also the default setting.<Br><Br>**Dating** - most recent or least recent date of the one or more dates found in each record.<Br><Br>**Publisher** - data provider (of the resource metadata).<Br><Br>**Resource type** - broad resource type (as defined in the Filters).|
+| ![List of ](../assets/31-Order_options.png) | **Relevance** - calculated from several fields, Title being the most important, then Description and Subject.<Br><Br>**Issued date** - date of publication of the resource. This is also the default setting.<Br><Br>**Dating** - most recent or least recent date of the one or more dates found in each record.<Br><Br>**Publisher** - data provider (of the resource metadata).<Br><Br>**Resource type** - broad resource type (as defined in the Filters).|
 
 ### How ‘Relevance’ is calculated
 
