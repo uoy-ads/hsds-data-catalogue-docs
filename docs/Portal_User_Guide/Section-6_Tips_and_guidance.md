@@ -1,7 +1,7 @@
 ---
 description: Section 6 of the ARIADNE Portal Guide on how to use the Catalogue - guidance and two case studies. 
 ---
-![Header iamge](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
+![ARIADNE Portal Header iamge](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
 
 # Tips and guidance for searching the Catalogue
 ## How the metadata has been mapped
