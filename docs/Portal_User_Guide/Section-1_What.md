@@ -65,7 +65,7 @@ At the top on the right hand side of the Results page are two options for contro
 
 | Order |  |
 | ------------- | ----------- |
-| ![List of ](../assets/31-Order_options.png) | **Relevance** - calculated from several fields, Title being the most important, then Description and Subject.<Br><Br>**Issued date** - date of publication of the resource. This is also the default setting.<Br><Br>**Dating** - most recent or least recent date of the one or more dates found in each record.<Br><Br>**Publisher** - data provider (of the resource metadata).<Br><Br>**Resource type** - broad resource type (as defined in the Filters).|
+| ![List of options which determine the display order](../assets/31-Order_options.png) | **Relevance** - calculated from several fields, Title being the most important, then Description and Subject.<Br><Br>**Issued date** - date of publication of the resource. This is also the default setting.<Br><Br>**Dating** - most recent or least recent date of the one or more dates found in each record.<Br><Br>**Publisher** - data provider (of the resource metadata).<Br><Br>**Resource type** - broad resource type (as defined in the Filters).|
 
 ### How ‘Relevance’ is calculated
 
