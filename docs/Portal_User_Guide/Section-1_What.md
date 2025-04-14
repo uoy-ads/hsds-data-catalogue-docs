@@ -11,9 +11,10 @@ A separate section of the Portal provides several services and tools to assist a
 
 For further information about the ARIADNE Research Infrastructure and the Portal, see the <BR> [**? About page**](https://portal.ariadne-infrastructure.eu/about).
 
+### Video: demonstration of the Portal Catalogue
 <table border="3" bgcolor="#ADD8E6">
     <tr>
-        <td><b>Video demonstration of the Portal Catalogue</b><Br><a href="https://www.ariadne-research-infrastructure.eu/catalogue-demonstration-video/">This 40 minute video</a> by Prof. Julian Richards provides the background to the development of the Portal, the technology used and demonstrates the search options available in the Catalogue, explaining how these affect the search results. Shorter clips from this video are used in the relevant sections of the Guide.
+        <td><a href="https://www.ariadne-research-infrastructure.eu/catalogue-demonstration-video/">This 40 minute video</a> by Prof. Julian Richards provides the background to the development of the Portal, the technology used and demonstrates the search options available in the Catalogue, explaining how these affect the search results. Shorter clips from this video are used in the relevant sections of the Guide.
 </td>
     </tr>
 </table>
