@@ -30,13 +30,7 @@ Two approaches have been used to denote time periods – absolute start and end 
 ## Some examples of using the Catalogue to answer research questions
 
 ### Video: doing a search
-<table border="3" bgcolor="#ADD8E6">
-    <tr>
-        <td><b>Video demonstration of a search</b><Br><a href="https://vimeo.com/1049348294">This 4 minute video</a> shows how to find all the records relating to submarines sunk around the British Isles during the Second World War using a selection of the available tools and filters.
-</td>
-    </tr>
-</table>
-
+[Video demonstration of a search](https://vimeo.com/1049348294). This 4 minute video</a> shows how to find all the records relating to submarines sunk around the British Isles during the Second World War using a selection of the available tools and filters.
 ### How to find all resources relating to a specific site or monument
 
 This example illustrates the usefulness of the map and georeferencing resources, showing how:
@@ -77,13 +71,8 @@ THANADOS is a web portal (https://thanados.net), hosted at the Natural History M
 -	Sites/monument – cemeteries and grave sites.
 
 ### Video: data hierarchy
-<table border="3" bgcolor="#ADD8E6">
-    <tr>
-        <td><a href="https://vimeo.com/1049348294">In this video clip,</a> Julian Richards demonstrates the hierarchical structure of the THANADOS collection resources. 
-</td>
-    </tr>
-</table>
-
+[In this video clip,](https://vimeo.com/1049348294) Julian Richards demonstrates the hierarchical structure of the THANADOS collection resources. 
+<Br><Br>
 The following example is the resource for Teurnia St. Peter in Holz, a burial ground which has records for 32 graves and one for the stray finds. Note that the finds for each site are amalgamated into one record at this top level but exist as separate records for each artefact associated with an individual burial.
 
 ![THANADOS Teurnia St. Peter in Holz map ](../assets/49-Thanados_map.png){width=800}
