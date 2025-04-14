@@ -1,6 +1,7 @@
 ---
 description: Minimal recommended metadata for describing this reference resource 
 ---
+![ARIADNE Portal Guide Header image](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
 
 Title: The ARIADNE Portal User Guide<Br>
 Abstract/Description: In depth guide for users of the Portal on how to perform searches and make best use of the filters provided<Br>
