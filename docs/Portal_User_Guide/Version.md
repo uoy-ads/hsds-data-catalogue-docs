@@ -1,6 +1,8 @@
 ---
 description: Record of the versions of the  ARIADNE Portal Guide.
 ---
+![ARIADNE Portal Guide Header image](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
+
 **Version 2.0** as an online version designed to be more accessible and user-friendly to Portal end users.<Br>
 Created April 2025<Br>
 <Br>
