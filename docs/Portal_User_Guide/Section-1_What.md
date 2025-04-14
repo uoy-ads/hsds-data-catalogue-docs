@@ -9,7 +9,7 @@ The ARIADNE Portal contains a Catalogue and several services which provide acces
 
 A separate section of the Portal provides several services and tools to assist archaeologists with their research, from planning data management, exploration and analysis to display of all types of data (including from the ARIADNE Knowledgebase, where applicable). Each of these services has its own information on their use and application, so are not covered by this Guide.
 
-For further information about the ARIADNE Research Infrastructure and the Portal, see the <BR> [**? About page**](https://portal.ariadne-infrastructure.eu/about).
+For further information about the ARIADNE Research Infrastructure and the Portal, see the [**? About**](https://portal.ariadne-infrastructure.eu/about) page, the link being located in the horizontal menu on the far right at the top.
 
 ### Video: demonstration of the Portal Catalogue
 <table border="3" bgcolor="#ADD8E6">
