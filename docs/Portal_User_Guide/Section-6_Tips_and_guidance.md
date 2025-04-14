@@ -28,10 +28,14 @@ Two approaches have been used to denote time periods – absolute start and end 
 - PeriodO terms are used to describe archaeological time periods; it is well known that a defined period (e.g. “Bronze age”) in one country may cover a different time span in another country. However, the filter has been designed so that one or more defined periods may be used with the further option of restricting the named period(s) to a specific region(s). 
 
 ## Some examples of using the Catalogue to answer research questions
-### Short video tutorial
 
-This short video shows how to find all the records relating to submarines sunk around the British Isles during the Second World War: 
-[Short video tutorial](https://vimeo.com/1049348294)
+### Video: doing a search
+<table border="3" bgcolor="#ADD8E6">
+    <tr>
+        <td><b>Video demonstration of a search</b><Br><a href="https://vimeo.com/1049348294">This 4 minute video</a> shows how to find all the records relating to submarines sunk around the British Isles during the Second World War using a selection of the available tools and filters.
+</td>
+    </tr>
+</table>
 
 ### How to find all resources relating to a specific site or monument
 
@@ -72,8 +76,13 @@ THANADOS is a web portal (https://thanados.net), hosted at the Natural History M
 -	Burials – graves and burials (a grave may contain more than one burial)
 -	Sites/monument – cemeteries and grave sites.
 
-### Short video tutorial
-In this clip, Julian Richards demonstrates the hierarchical structure of the THANADOS collection resources. 
+### Video: data hierarchy
+<table border="3" bgcolor="#ADD8E6">
+    <tr>
+        <td><a href="https://vimeo.com/1049348294">In this video clip,</a> Julian Richards demonstrates the hierarchical structure of the THANADOS collection resources. 
+</td>
+    </tr>
+</table>
 
 The following example is the resource for Teurnia St. Peter in Holz, a burial ground which has records for 32 graves and one for the stray finds. Note that the finds for each site are amalgamated into one record at this top level but exist as separate records for each artefact associated with an individual burial.
 
