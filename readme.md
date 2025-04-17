@@ -1,2 +1,3 @@
-Add info to the readme  
-Don't forget to add an open license
+This User Guide has been created as a reference manual for end users of the ARIADNE Portal Catalogue. 
+
+This User Guide has a CC BY-NC-SA 4.0 licence: https://creativecommons.org/licenses/by-nc-sa/4.0/
