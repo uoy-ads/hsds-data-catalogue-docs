@@ -27,8 +27,12 @@ There are a number of options for use with the map filter, the icons for which a
 | ![Layers icon for map display option](../assets/06-Layers-icon.png) | The Layers icon displays a sub-menu with six different options for the display of the map, four of which are from Google including a satellite and a street map version (granularity will depend on level of survey) and where English is used for all place names. |
 | ![Zoom in and out icon for map display option](../assets/07-Zoom-icon.png) | The Zoom (in and out) icons for panning in and out of geographic regions. This can also be achieved with a touchpad (and mouse where enabled).|
 | ![Set of drawing tool options - line. polygon and rectangle](../assets/08-Drawing-tool-icons.png) | The Drawing tools icons:<Br><Br>The Line tool will display the distance covered as each point is drawn. <p>The Polygon tool defines a multi-sided area on the map. <Br><Br>The Rectangle tool defines a rectangular area between two opposite corners. <p>The results are updated to show only the records located within the defined areas |
-| ![Options for the drawimg tools](../assets/53-.png) | Each of the drawing tools has options to complete or cancel the operation. |
 
+![Options for the drawimg tools](../assets/53-Edit_options_map.png)
+
+Each of the drawing tools has options to complete or cancel the operation. 
+
+### Display as search result
 Once an area of interest has been defined, all the related resources can be displayed on the Results page by clicking on the ‘Display as search result’ part of the information box displayed in the top left corner of the screen
 
 ![Map in Google satellite mode showing resources](../assets/09-Map-in-Google-satellite-mode-showing-resources.png)
