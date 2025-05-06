@@ -75,6 +75,6 @@ The dating filter can be viewed as a ‘catch all’ filter which works solely o
 
 ## Filter options on the results page
 
-When one or more of the Map and Timeline tools and/or filters are applied to the search, the results are automatically updated and the results page shows the current selection in use at the top of the page. In the example below, the search term is "Buttons" and the Resource type "Artefact" has been selected. The "Medieval" period has been applied from the Time period tool and the Map tool has also been used to define as area which is shown as Bbox: 60,-38,41,47. Bbox stands for Bounding box and the numbers are the latitude and longitude measurements which define the (rectangular) geographical area of interest. 
+When one or more of the Map and Timeline tools and/or filters are applied to the search, the results are automatically updated and the results page shows the current selection in use at the top of the page. In the example below, the search term is "Buttons" and the Resource type "Artefact" has been selected. The "Medieval" period has been applied from the Time period tool and the Map tool has also been used to define as area which is shown as Bbox: 60,-38,41,47. Bbox stands for Bounding box and the numbers are the latitude and longitude measurements which define the (rectangular) geographical area of interest. If a polygon area is defined, Bbox will show the minumum and maximum latitude and longitude measurements. Note that the second record displays a thumbnail image, indicating that there is one or more images available in the resource metadata.
 
-
+![Results page showing two records for Buttons](../assets/52-Results_for_buttons.png){ width="850" }
