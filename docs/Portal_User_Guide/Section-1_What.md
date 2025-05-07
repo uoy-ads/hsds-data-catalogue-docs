@@ -23,9 +23,15 @@ Entry to the catalogue (i.e. the landing page) consists of a text entry search b
 ![ARIADNE Catalogue Landing page](../assets/01-Landing-page-1000x542.png){ width="850" }
 <p align=center><i>Catalogue entry page</i></p>
 
-The search is designed to start with one or more key words where logical “AND” is applied. For example, a search for “gold coin” will return only records where both these words are to be found in the metadata record. The default setting is “All fields”, i.e. the whole record is searched for matching terms. Omitting a key word defaults to the entire Catalogue, the returned results depending on the filters selected.
+The search is designed to start with one or more key words where logical “AND” is applied. For example, a search for “gold coin” will return only records where both these words, either adjacent or separately, are to be found in the metadata record. The default setting is “All fields”, i.e. the whole record is searched for matching terms. Omitting a key word defaults to the entire Catalogue, the returned results depending on the filters selected.
 
-There are four filters available for a more targeted search:
+When a search term is entered, a list of up to 10 records is displayed where the term is found in one or more of the metadata fields. Records with matches in the highest number of fields are shown first. 
+
+![Records matching the search term in the text entry box](../assets/54-Text_search_Getty_matches.png)
+<p><i>List of records matching the search term</i></p>
+
+### Text-based search
+There are four filters based on the metadata supplied for each resource available for more targeted searches:
 
 - **Time period** – name of time period(s) e.g. Iron age, medieval…
 - **Place** – place name which can be anything from a specific location to a continent.
