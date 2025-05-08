@@ -1,13 +1,19 @@
 ---
 description: Section two of the ARIADNE Portal Guide on how to use the Catalogue - the map tool. 
 ---
-![Header iamge](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
+![Header image](../assets/ARIADNE_Portal_Guide_banner.png){ width="850" }
 
 # The Map (Where)
 
+![Map of search results displayed as heat spots](../assets/04-Map.png)
+
+![Map of search results displayed as heat spots](../assets/55-Map_search_area.png)
+
 | Where | Description |
 | ----------- | ----------- |
-| ![Map of search results displayed as heat spots](../assets/04-Map.png) | The map on the Search results page displays the location of the records returned in the search results (where co-ordinates have been provided). These are shown as ‘heat spots’ at this macro level, covering Europe and Japan in the example to the left. <Br><Br>It is possible to zoom in and out (to a limited level) and to change the layers as indicated by the icons. See below for more information about these options.<Br><Br>Clicking on ‘Advanced Search’ will open the Map filter page where the search results can be refined geographically by selecting an area on the map. |
+| ![Map of search results displayed as heat spots](../assets/04-Map.png) | The map on the Search results page displays the location of the records returned in the search results (where co-ordinates have been provided). These are shown as ‘heat spots’ at this macro level, covering Europe and Japan in the example to the left. <Br><Br>It is possible to zoom in and out (to a limited level) and to change the layers as indicated by the icons. See "Map filter options" below for more information about these.<Br><Br> |
+
+Clicking on ‘Advanced Search’ will open the Map filter page where the search results can be refined geographically by selecting an area on the map.
 
 ## Advanced search
 
