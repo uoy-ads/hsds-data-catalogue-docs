@@ -5,17 +5,14 @@ description: Section two of the ARIADNE Portal Guide on how to use the Catalogue
 
 # The Map (Where)
 
-![Map of search results displayed as heat spots](../assets/04-Map.png)
-
-![Map of search results displayed as heat spots](../assets/55-Map_search_area.png)
-
 | Where | Description |
 | ----------- | ----------- |
-| ![Map of search results displayed as heat spots](../assets/04-Map.png) | The map on the Search results page displays the location of the records returned in the search results (where co-ordinates have been provided). These are shown as ‘heat spots’ at this macro level, covering Europe and Japan in the example to the left. <Br><Br>It is possible to zoom in and out (to a limited level) and to change the layers as indicated by the icons. See "Map filter options" below for more information about these.<Br><Br> |
-
-Clicking on ‘Advanced Search’ will open the Map filter page where the search results can be refined geographically by selecting an area on the map.
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Map of search results displayed as heat spots](../assets/04-Map.png) | The map on the Search results page displays the location of the resources returned in the search results (where co-ordinates have been provided in the metadata). These are shown as ‘heat spots’ at the macro level, covering Europe and Japan in the example to the left (the initial global overview). <Br><Br>It is possible to zoom in and out (to a limited level) and to change the layers as indicated by the icons. See "Map filter options" below for more information about these.<Br><Br>By default, using the zoom in and out options will not change the defined area or the search results. |
+| ![Map of search results with Search area option](../assets/55-Map_search_area.png) | The map can be used to refine the results as follows. After zooming in, a new option, “Search area”, will appear at the top of the map. Clicking on this will update both the (rectangular) search area to that currently shown by the map and the search results. In addition, once the search area becomes small enough, the heat map is replaced by clusters and pins to show the matching resource locations. Increasing the map area does not change the results again until the “Search area” option is used. <Br><Br>For more complicated search areas and greater geographical resolution, the map’s “Advanced search” option should be used. |
 
 ## Advanced search
+
+Clicking on ‘Advanced Search’ will open the Map filter page where the search results can be refined geographically by selecting an area on the map.
 
 ![Map with display options](../assets/05-Full-map-with-filters.png)
 <p align=center><i>Map filter page with full set of filters (left) geographical tools (right)</i></p>
