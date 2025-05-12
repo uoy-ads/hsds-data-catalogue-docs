@@ -69,10 +69,10 @@ THANADOS is a web portal (https://thanados.net), hosted at the Natural History M
 -	Artefacts – items found in graves
 -	Burials – graves and burials (a grave may contain more than one burial)
 -	Sites/monument – cemeteries and grave sites.
-
-### Video: data hierarchy
+<!-- ### Video: data hierarchy
 [In this video clip,](https://vimeo.com/1049348294) Julian Richards demonstrates the hierarchical structure of the THANADOS collection resources. 
-<Br><Br>
+-->
+<Br>
 The following example is the resource for Teurnia St. Peter in Holz, a burial ground which has records for 32 graves and one for the stray finds. Note that the finds for each site are amalgamated into one record at this top level but exist as separate records for each artefact associated with an individual burial.
 
 ![THANADOS Teurnia St. Peter in Holz map ](../assets/49-Thanados_map.png){width=800}
