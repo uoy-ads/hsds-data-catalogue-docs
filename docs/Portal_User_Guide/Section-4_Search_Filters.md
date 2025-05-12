@@ -94,11 +94,11 @@ The dating filter can be viewed as a ‘catch all’ filter which works solely o
 
 The default operator used on multiple search terms and combinations of filters when searching is And. So, as more filters are applied, the number of matching results reduces. If Or is selected instead, then the number of results returned increases.
 
-An example using the search term “gold buttons”: The default (And) search will return all the records which contain both the words “gold” and “buttons”. Changing the operator to “Or” will return a much larger set of records which contain either one or both of these terms. 
+An example using the search term “gold buttons”: The default (And) search will return all the records which contain both the words “gold” and “buttons”. Changing the operator to “Or” will return a much larger set of records which contain either one or both of these terms.
+
+The main filters (e.g. Resource Type through to Dating) will contain options from all the records with matches to one or more of the terms “gold” or “buttons”. Adding the Publisher “THANADOS” increases the results and consequently the filter options. If the operator is changed to “And” then only records containing all three terms (gold, buttons and THANADOS) will be found.
 
 Adding a time period of 500 to 1200 will only return records where the resource dates are within or overlap this period, regardless of which operator is used. This is the only filter that does not change.
-
-The main filters will contain options from all the records with matches to one or more of the terms “gold” or “buttons”. Adding the Publisher “THANADOS” increases the results. If the operator is changed to “And” then only records containing all three terms (gold, buttons and THANADOS) will be found. 
 
 ## Filter options on the results page
 
