@@ -9,7 +9,7 @@ description: Minimal recommended metadata for describing this reference resource
 <li>Author(s): Sheena Bassett, ARIADNE RI</li>
 <li>Primary Language: English</li>
 <li>Keyword(s): Catalogue, archaeology, monuments, artefacts, maps, datasets, reports</li>
-<li>License: [CC BY_NC_SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</li>
+<li>License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</li>
 <li>Version date: 09/04/2025</li>
 <li>URL to Resource: https://ariadne-infrastructure.github.io/docs/Portal_User_Guide/Section-1_What/</li>
 <li>Resource URL Type: TBA</li>
