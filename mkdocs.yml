@@ -1,29 +1,66 @@
 
-site_name: ARIADNE RI Documentation
-site_url: https://ARIADNE-Infrastructure.github.io/docs/
-site_author: ARIADNE contributors
-site_description:
-repo_name: ARIADNE-Infrastructure/docs
-repo_url: https://github.com/ARIADNE-Infrastructure/docs
-copyright: ARIADNE Research Infrastructure AISBL
+site_name: HSDS Data Catalogue Guide
+site_author: Heritage Science Data Service
+repo_name: hsds-data-catalogue-docs
+site_url: https://github.com/uoy-ads/hsds-data-catalogue-docs/
+
 theme:
   name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: assets/hsds_blue and white.png
+  favicon: assets/hsds_notext_blue.png
   features:
     - navigation.sections    # Groups top-level sections in sidebar
     - navigation.instant     # Faster page transitions
     - navigation.top         # Back-to-top button
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: blue grey
+      accent: white
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue grey
+      accent: blue
+
 markdown_extensions:
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - md_in_html
+  - pymdownx.blocks.caption
 
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/heritage-science-data-service
+      name: HSDS LinkedIn
+    - icon: simple/bluesky
+      link: https://bsky.app/profile/hsds-update.bsky.social
+      name: HSDS Bluesky
+    - icon: simple/instagram
+      link: https://www.instagram.com/heritagescience_dataservice/
+      name: HSDS Instagram
+copyright: Copyright &copy; 2025 - Heritage Science Data Service
 
 nav:
   - Home: index.md
-  - User Guide:
-    - Introduction: Portal_User_Guide/Section-1_What.md
-    - The Map tool (Where): Portal_User_Guide/Section-2_Map_Where.md
-    - Time period tool (When): Portal_User_Guide/Section-3_Time_period_When.md
-    - Search filters: Portal_User_Guide/Section-4_Search_Filters.md
-    - Resource information: Portal_User_Guide/Section-5_Resources.md
-    - Tips and guidance: Portal_User_Guide/Section-6_Tips_and_guidance.md
-    - RDA metadata: Portal_User_Guide/RDA_metadata.md
-    - Version: Portal_User_Guide/Version.md
+  - Searching the Catalogue: Section-0_Searching_HSDS_Catalogue.md
+  - Search parameters:
+    - What - The Text tool: Section-1_What_HSDS.md
+    - Where - The Map tool: Section-2_Map_Where_HSDS.md
+    - When - The Time period tool: Section-3_Time_period_When_HSDS.md
+  - RDA metadata: RDA_metadata.md
