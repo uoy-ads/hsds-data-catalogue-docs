@@ -61,6 +61,6 @@ nav:
   - Searching the Catalogue: Section-0_Searching_HSDS_Catalogue.md
   - Search parameters:
     - What - The Text tool: Section-1_What_HSDS.md
-    - Where - The Map tool: Section-2_Map_Where_HSDS.md
-    - When - The Time period tool: Section-3_Time_period_When_HSDS.md
+    - Where - The Map tool: Section-2_Where_HSDS.md
+    - When - The Time period tool: Section-3_When_HSDS.md
   - RDA metadata: RDA_metadata.md
