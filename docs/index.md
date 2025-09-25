@@ -1,8 +1,8 @@
+![HSDS Data Catalogue Logo](assets/hsds_data_catalogue_logo.png){ width="650" }
+
 # Getting Started
 
 The Heritage Science Data Service [**Data Catalogue**](https://hsds.ac.uk/data-catalogue/) is a comprehensive platform for discovering and accessing heritage science data and research resources from across the UK.
-
-![HSDS Data Catalogue Logo](assets/hsds_data%20catalogue_logo.png){ width="650" }
 
 **What makes this catalogue unique?** With access to extensive heritage science resources from across the UK, this catalogue addresses the challenge of discovering relevant materials by bringing together collections deposited with the Heritage Science Data Service and other providers into one searchable platform. Whether you're a conservation scientist, materials researcher, cultural heritage professional, or student, the HSDS Data Catalogue allows you to explore the UK's heritage science landscape through a single intuitive interface.
 
@@ -11,10 +11,6 @@ Key search capabilities:
 - **What** - Search by keywords, techniques, material types, and research methodologies
 - **Where** - Filter by geographic location or heritage site
 - **When** - Explore by date ranges
-
-Built on the robust infrastructure developed by the [ARIADNE RI](https://www.ariadne-research-infrastructure.eu/) for the [ARIADNE Portal](https://portal.ariadne-infrastructure.eu/), the HSDS Data catalogue is designed to suit a distinctive collection of scientific datasets, analytical reports, and research resources.
-
-The Heritage Science Data Service provides core digital research services as part of the [RICHeS programme](https://www.riches.ukri.org/), the UK’s Research Infrastructure for Conservation and Heritage Science. For further information please visit the [**HSDS Website**](https://hsds.ac.uk/).
 
 ## How to Use This Guide
 
@@ -40,4 +36,12 @@ This user guide will help you navigate catalogue feature's, from basic searching
 
 -----
 
+## About the Catalogue
+
+Built on the robust infrastructure developed by the [ARIADNE RI](https://www.ariadne-research-infrastructure.eu/) for the [ARIADNE Portal](https://portal.ariadne-infrastructure.eu/), the HSDS Data catalogue is designed to suit a distinctive collection of scientific datasets, analytical reports, and research resources.
+
+The Heritage Science Data Service provides core digital research services as part of the [RICHeS programme](https://www.riches.ukri.org/), the UK’s Research Infrastructure for Conservation and Heritage Science. For further information please visit the [HSDS Website](https://hsds.ac.uk/).
+
 The HSDS Data Catalogue has been developed thanks to generous funding from UK Reserach and Innovation through AHRC’s RICHeS initiative.
+
+![RICHES Logo](assets/RICHES_stripe.png){ width="650" }

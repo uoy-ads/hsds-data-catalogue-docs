@@ -14,9 +14,7 @@ By default, the catalogue displays all available results, which you can then fil
 
 ## Search Results
 
-Each record shown in the search results has a **Resource Type** icon next to its title, which organise resources into different areas of interest. To see the name of the Resource Type, just hover your mouse over the icon. 
-
-If a resource contains more than one Resource Type, then the icon displayed will be for first type listed in the metadata, regardless of the which Resource Type was selected in the filter. 
+Each record shown in the search results has a **Resource Type** icon next to its title, which organise resources into different areas of interest. To see the name of the Resource Type, just hover your mouse over the icon. If a resource contains more than one Resource Type, then the icon displayed will be for first type listed in the metadata, regardless of the which Resource Type was selected in the filter. 
 
 Resources that are found in a [**CoreTrustSeal certified repository**](https://www.coretrustseal.org/) will display an additional icon below the Resource Type.
 
@@ -34,7 +32,7 @@ At the top right hand side of the Results page, there are two options for contro
 
 ### How ‘Relevance’ is calculated
 
-**Relevance** is a score assigned to resources based on how well they match the current search criteria. This score determines the order in which the resources appear in your results. The algorithm prioritises matches to the Title field, followed by matches in the Description and Subject fields. Following those fields, other fields such as location and time are also used to add to the overall relevance score. 
+**Relevance** is a score assigned to resources based on how well they match the current search criteria. This score determines the order in which resources appear in your results. The algorithm prioritises matches to the Title field, followed by matches in the Description and Subject fields. Following those fields, other fields such as location and time are also used to add to the overall relevance score. 
 
 ## Refining the search results
-You can refine your search results by using a combination of [**What**](Section-1_What_HSDS.md), [**Where**](Section-2_Where_HSDS.md), and [**When**](Section-3_When_HSDS.md) parameters, as well as the individual filters. The following sections explain how each of these options can be used to narrow down the search results.
+You can refine your search results by using a combination of [**What**](Section-1_What_HSDS.md), [**Where**](Section-2_Where_HSDS.md), and [**When**](Section-3_When_HSDS.md) parameters, as well as individual filters. The following sections explain how each of these options can be used to narrow down your search results.
