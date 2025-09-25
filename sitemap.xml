@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://github.com/uoy-ads/hsds-data-catalogue-docs/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/uoy-ads/hsds-data-catalogue-docs/RDA_metadata/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/uoy-ads/hsds-data-catalogue-docs/Section-0_Searching_HSDS_Catalogue/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/uoy-ads/hsds-data-catalogue-docs/Section-1_What_HSDS/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/uoy-ads/hsds-data-catalogue-docs/Section-2_Where_HSDS/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/uoy-ads/hsds-data-catalogue-docs/Section-3_When_HSDS/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+</urlset>
