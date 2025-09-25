@@ -30,7 +30,7 @@ theme:
         icon: material/weather-night
         name: Light mode
       primary: blue grey
-      accent: blue
+      accent: deep orange
 
 markdown_extensions:
   - attr_list
