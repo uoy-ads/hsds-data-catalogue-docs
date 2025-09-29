@@ -36,3 +36,6 @@ If you would like to learn more about the Heritage Science Data Service please v
 * HSDS Instagram :star2: [@heritagesciencedataservice](https://www.instagram.com/heritagescience_dataservice/)
 * HSDS LinkedIn :link: [Heritage Science Data Service](https://www.linkedin.com/company/heritage-science-data-service)
 
+Amended content was developed by [Dr Nicky Garland](https://github.com/nickyjgarland).
+
+
