@@ -59,8 +59,8 @@ copyright: Copyright &copy; 2025 - Heritage Science Data Service
 nav:
   - Home: index.md
   - Searching the Catalogue: Section-0_Searching_HSDS_Catalogue.md
-  - Search parameters:
-    - What - The Text tool: Section-1_What_HSDS.md
-    - Where - The Map tool: Section-2_Where_HSDS.md
-    - When - The Time period tool: Section-3_When_HSDS.md
+  - What - The Text tool: Section-1_What_HSDS.md
+  - Where - The Map tool: Section-2_Where_HSDS.md
+  - When - The Time period tool: Section-3_When_HSDS.md
+  - Search Filters: Section-4_Search_Filters_HSDS.md
   - RDA metadata: RDA_metadata.md
